@@ -1,0 +1,363 @@
+{
+  "meta": {
+    "quiz_name": "ICAO-第五章 区域管制通话术语",
+    "export_time": "2026-05-01T15:41:20.418Z",
+    "total_questions": 59
+  },
+  "questions": [
+    {
+      "id": 380,
+      "content": "Maintaining FL350, expect descent after BKM VOR.",
+      "trans": "保持高度350，预计过BKMVOR台后下降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/257.mp3"
+    },
+    {
+      "id": 381,
+      "content": "Climb to and maintain FL310. Maintain Mach number decimal 81 or greater until BKM VOR.",
+      "trans": "上升并保持高度310。BKMVOR台前保持马赫数点81或更大。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/639.mp3"
+    },
+    {
+      "id": 382,
+      "content": "Descend to and maintain FL 270. Do not exceed Mach number decimal 79.",
+      "trans": "下降并保持高度270。不要超出马赫数点79。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/563.mp3"
+    },
+    {
+      "id": 383,
+      "content": "Continue climb to FL 290, cross BKM VOR not above FL 230.",
+      "trans": "继续上升到高度290，飞越BKMVOR台不高于高度230。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/420.mp3"
+    },
+    {
+      "id": 384,
+      "content": "Negative, unable cross BKM VOR at or above FL230 due performance.",
+      "trans": "不行，由于性能不能在飞越BKMVOR台时高于高度230。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/472.mp3"
+    },
+    {
+      "id": 385,
+      "content": "Maintaining FL310 until advised.",
+      "trans": "保持高度310，等通知。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/113.mp3"
+    },
+    {
+      "id": 386,
+      "content": "Descend to FL170, cross BKM VOR at or above FL210.",
+      "trans": "下降到高度170，飞越BKMVOR台时高于高度210。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/404.mp3"
+    },
+    {
+      "id": 387,
+      "content": "Affirm, cross BKM VOR at or above FL190",
+      "trans": "同意，飞越BKMVOR台时高于高度190。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/278.mp3"
+    },
+    {
+      "id": 388,
+      "content": "Negative, unable to cross BKM VOR below FL170.",
+      "trans": "不行，飞越BKMVOR台时不能低于高度170。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/305.mp3"
+    },
+    {
+      "id": 389,
+      "content": "Affirm, cross BKM VOR at or before 55",
+      "trans": "可以，在55分或之前飞越BKMVOR台。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/271.mp3"
+    },
+    {
+      "id": 390,
+      "content": "Negative, unable to cross BKM VOR at 43 or later.",
+      "trans": "不行，不能在43分或之后飞越BKMVOR台。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/401.mp3"
+    },
+    {
+      "id": 391,
+      "content": "Request lose time en route due landing delay at destination airport.",
+      "trans": "由于目的地机场延误请求航路上消耗时间。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20231030/653f65812148f.mp3"
+    },
+    {
+      "id": 392,
+      "content": "Request lose time en route to finish the checklist.",
+      "trans": "请求航路上消耗时间以完成检查单。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20231031/6540928733b9b.mp3"
+    },
+    {
+      "id": 393,
+      "content": "Request parallel offset from current track due weather ahead.",
+      "trans": "由于前方天气，请求平行偏离当前航迹。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/427.mp3"
+    },
+    {
+      "id": 394,
+      "content": "Request parallel offset from current airway for 30 minutes due icing condition.",
+      "trans": "由于结冰条件，申请在当前航路上平行偏置飞行30分钟。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/554.mp3"
+    },
+    {
+      "id": 395,
+      "content": "Proceed offset 10 miles right of track until abeam BKM VOR.",
+      "trans": "右偏航迹10海里直到正切BKMVOR台。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/459.mp3"
+    },
+    {
+      "id": 396,
+      "content": "Cleared offset 25 miles left of track for 30 minutes.",
+      "trans": "可以左偏离航迹25海里飞30分钟。 *Note: 题干中的25可能读成“twenty five”，30可能读成“thirty”。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/448.mp3"
+    },
+    {
+      "id": 397,
+      "content": "Offset canceled, turn right to rejoin the A1 before BKM VOR.",
+      "trans": "偏置取消，在到达BKMVOR台前，右转重新加入A1。 Note: A1有可能读成\"Alpha 1\"",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/462.mp3"
+    },
+    {
+      "id": 398,
+      "content": "Clear of weather, request to resume flight route.",
+      "trans": "已绕飞天气，请求回到航路。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/354.mp3"
+    },
+    {
+      "id": 399,
+      "content": "Climb to and maintain FL290, re-cleared to track direct to BKM VOR, the rest unchanged.",
+      "trans": "上升并保持高度290，重新直飞BKMVOR台，其余未变。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/678.mp3"
+    },
+    {
+      "id": 400,
+      "content": "Estimating crossing LV NDB 1123.",
+      "trans": "预计1123飞越LVNDB台。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/155.mp3"
+    },
+    {
+      "id": 401,
+      "content": "Passing POU at 43, maintaining FL310, estimating MLT at 55,next NLD.",
+      "trans": "当前位置POU，时间43分，高度310，预计MLT55分，下一位置NLD。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/564.mp3"
+    },
+    {
+      "id": 402,
+      "content": "BKM 47, FL170 descending to FL120, abeam NLD VOR at 55.",
+      "trans": "BKM47分，高度170，下降到高度层120，55分正切NLDVOR台。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20211021/617110867d722.mp3"
+    },
+    {
+      "id": 403,
+      "content": "Report 25 miles from BKM VOR.",
+      "trans": "距离BKMVOR台25海里报告。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/139.mp3"
+    },
+    {
+      "id": 404,
+      "content": "Report 34 miles from Top of Descent.",
+      "trans": "距离下降顶点34海里报告。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/269.mp3"
+    },
+    {
+      "id": 405,
+      "content": "Report crossing 270 radial BKM VOR.",
+      "trans": "过BKMVOR台270度径向线报告。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/168.mp3"
+    },
+    {
+      "id": 406,
+      "content": "Report 28 miles DME 210 radial BKM VOR.",
+      "trans": "BKMVOR台210度径向线28海里时报告。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/277.mp3"
+    },
+    {
+      "id": 407,
+      "content": "Climb to FL220, report passing FL170.",
+      "trans": "上升高度220，通过高度170报告。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/219.mp3"
+    },
+    {
+      "id": 408,
+      "content": "Descending immediately to FL190.",
+      "trans": "立刻下降到高度190。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/114.mp3"
+    },
+    {
+      "id": 409,
+      "content": "Leaving FL220 for FL190.",
+      "trans": "离开高度220，下降到高度190。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/103.mp3"
+    },
+    {
+      "id": 410,
+      "content": "Request clearance to enter controlled airspace northeast of BKM VOR at FL240 at time 43.",
+      "trans": "请求在BKMVOR台东北方向高度240，时间43分时进入管制空域的许可。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/642.mp3"
+    },
+    {
+      "id": 411,
+      "content": "Remain outside controlled airspace, expect joining clearance at time 55.",
+      "trans": "保持在管制空域外，预计在55进入。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/483.mp3"
+    },
+    {
+      "id": 412,
+      "content": "Request to leave controlled airspace by descent.",
+      "trans": "请求通过下降离开管制空域。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/309.mp3"
+    },
+    {
+      "id": 413,
+      "content": "Request to leave controlled airspace by climb.",
+      "trans": "请求通过爬升离开管制空域。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/299.mp3"
+    },
+    {
+      "id": 414,
+      "content": "Descending to 5000 feet QNH 1014, report passing 7000 feet.",
+      "trans": "下降到5000英尺，修正海压1014，通过7000英尺报告。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/458.mp3"
+    },
+    {
+      "id": 415,
+      "content": "Request VMC descent to FL60.",
+      "trans": "请求目视气象条件下降到高度层60。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/134.mp3"
+    },
+    {
+      "id": 416,
+      "content": "Descending to FL60, maintain VMC FL90 to FL70, report traffic in sight at FL80.",
+      "trans": "下降到高度层60，高度90到高度70之间保持目视气象条件，高度80看见活动飞机报告。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/626.mp3"
+    },
+    {
+      "id": 417,
+      "content": "Request to join airway A1 at DAPRO.",
+      "trans": "请求在DAPRO加入A1航路。 Note: 此处有的考点为request to.",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20230919/6509694abc47b.mp3"
+    },
+    {
+      "id": 418,
+      "content": "Cleared to destination airport via DAPRO, flight planned route,FL240, join A1 at FL240.",
+      "trans": "可以按DAPRO计划航路飞往目的地机场，高度240，并在高度层240加入A1航路。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/643.mp3"
+    },
+    {
+      "id": 419,
+      "content": "Remain outside controlled airspace, expect further clearance at 55.",
+      "trans": "保持在管制空域外，预计55分有进一步许可。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/441.mp3"
+    },
+    {
+      "id": 420,
+      "content": "If FL240 not available, we accept FL220.",
+      "trans": "如果高度240不可用，我们接受高度220。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/281.mp3"
+    },
+    {
+      "id": 421,
+      "content": "Cleared to leave A1 via BKM VOR, maintain FL230 while in controlled airspace.",
+      "trans": "可以经由BKMVOR台离开A1，在管制空域保持高度230。 Note: A1也可能会读成Alpha 1.",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/566.mp3"
+    },
+    {
+      "id": 422,
+      "content": "Confirm we are under radar control.",
+      "trans": "证实我们在雷达管制区。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/212.mp3"
+    },
+    {
+      "id": 423,
+      "content": "Confirm radar service is terminated.",
+      "trans": "证实雷达服务终止。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/170.mp3"
+    },
+    {
+      "id": 424,
+      "content": "Radar service is terminated due technical failure. Maintain Mach number decimal 81 or less for separation.",
+      "trans": "由于技术故障雷达服务终止。因间隔，保持马赫数点81或更小。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/733.mp3"
+    },
+    {
+      "id": 425,
+      "content": "Confirm radar control is resumed.",
+      "trans": "证实雷达管制恢复。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/161.mp3"
+    },
+    {
+      "id": 426,
+      "content": "Radar control is resumed, track direct to BKM VOR and increase speed to Mach number decimal 84.",
+      "trans": "雷达管制恢复，直飞BKMVOR台，增速到马赫数点84。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/734.mp3"
+    },
+    {
+      "id": 427,
+      "content": "Affirm RVSM.",
+      "trans": "可以RVSM。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/2.mp3"
+    },
+    {
+      "id": 428,
+      "content": "Negative RVSM due equipment downgraded.",
+      "trans": "由于设备降级，RVSM不行。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/177.mp3"
+    },
+    {
+      "id": 429,
+      "content": "Request clearance into RVSM airspace.",
+      "trans": "请求进入RVSM空域的许可。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/174.mp3"
+    },
+    {
+      "id": 430,
+      "content": "Unable RVSM due turbulence.",
+      "trans": "由于颠簸，不能RVSM。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/67.mp3"
+    },
+    {
+      "id": 431,
+      "content": "Ready to resume RVSM.",
+      "trans": "准备恢复RVSM。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/55.mp3"
+    },
+    {
+      "id": 432,
+      "content": "Position 42N（North）165E (East) at 0800, FL390, estimating 44N 180E at 0900 45N 170W next.",
+      "trans": "当前位置北纬42度，东经165度，时间0800，高度390，预计北纬44,度，东经180度，时间0900，下一位置北纬45度，西经170度。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/735.mp3"
+    },
+    {
+      "id": 433,
+      "content": "At 150W(west) contact San Francisco Radio, primary 3494,secondary 11342. 注：部分考点为At 150W(west) degrees contact San Francisco Radio...",
+      "trans": "在西经150度联系旧金山无线电，主高频3494，备份高频11342。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/618.mp3"
+    },
+    {
+      "id": 434,
+      "content": "At 144E(east) squawk 2000.",
+      "trans": "东经144度时，应答机换2000。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/126.mp3"
+    },
+    {
+      "id": 435,
+      "content": "CPDLC connected.",
+      "trans": "CPDLC已连接。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/11.mp3"
+    },
+    {
+      "id": 436,
+      "content": "Continue CPDLC make position report via CPDLC.",
+      "trans": "继续CPDLC，由CPDLC做位置报。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/300.mp3"
+    },
+    {
+      "id": 437,
+      "content": "SELCAL CODE EFFG, request SELCAL check.",
+      "trans": "选择呼叫代码EFFG，请求选呼检查。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/228.mp3"
+    },
+    {
+      "id": 438,
+      "content": "CPDLC unserviceable, request to revert to voice communication.",
+      "trans": "CPDLC不工作。请求恢复到话音通信。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/383.mp3"
+    }
+  ]
+}

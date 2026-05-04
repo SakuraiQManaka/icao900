@@ -110,6 +110,11 @@ dist
 # vitepress cache directory
 **/.vitepress/cache
 
+# Capacitor platform directories
+android/
+ios/
+electron/
+
 # Docusaurus cache and generated files
 .docusaurus
 

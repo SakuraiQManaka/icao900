@@ -1,0 +1,831 @@
+{
+  "meta": {
+    "quiz_name": "ICAO-第二章 机场管制通话术语",
+    "export_time": "2026-05-01T15:36:53.212Z",
+    "total_questions": 137
+  },
+  "questions": [
+    {
+      "id": 86,
+      "content": "Gate15, information C, ready to copy ATC clearance.",
+      "trans": "停机位15，通播C收到，准备好抄收ATC放行许可。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/408.mp3"
+    },
+    {
+      "id": 87,
+      "content": "Cleared to destination, BK02 RNAV Departure, initially 3000 feet,departure frequency 125.4, squawk 3311.",
+      "trans": "可以到目的地机场，BK02号RNAV离场，起始高度3000英尺，离场频率125.4，应答机编码3311。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20200615/5ee72e66f150f.mp3"
+    },
+    {
+      "id": 88,
+      "content": "Say again all after 3000 feet.",
+      "trans": "3000英尺后的内容再说一遍。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/198.mp3"
+    },
+    {
+      "id": 89,
+      "content": "Say again all before departure frequency.",
+      "trans": "离场频率前的内容再说一遍。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/235.mp3"
+    },
+    {
+      "id": 90,
+      "content": "Say again the initial altitude.",
+      "trans": "再说一遍起始高度。 Note: 此处注意the的读音，在元音之前，the读作ði",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/144.mp3"
+    },
+    {
+      "id": 91,
+      "content": "Unable to cross LX FL150 due weight, maintaining FL130.",
+      "trans": "由于重量原因，不能在高度层150通过LX点，保持高度层130。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/416.mp3"
+    },
+    {
+      "id": 92,
+      "content": "Destination Beijing, request departure information.",
+      "trans": "目的地北京，请求离场信息。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/189.mp3"
+    },
+    {
+      "id": 93,
+      "content": "Bay24, request start-up.",
+      "trans": "停机位24号，请求开车。 Note：部分考点会将24读作 twenty four。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/101.mp3"
+    },
+    {
+      "id": 94,
+      "content": "Start up approved, QNH 29.91.",
+      "trans": "同意开车，修正海压29.91。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/138.mp3"
+    },
+    {
+      "id": 95,
+      "content": "Start up approved, altimeter setting 29.91.",
+      "trans": "同意开车，高度表设定值29.91（英寸汞柱）。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/247.mp3"
+    },
+    {
+      "id": 96,
+      "content": "Start up at 35, QNH 997.",
+      "trans": "35分开车，修正海压997。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/191.mp3"
+    },
+    {
+      "id": 97,
+      "content": "Expect start up at 35, QNH 1030.",
+      "trans": "预计35开车，修正海压1030。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/263.mp3"
+    },
+    {
+      "id": 98,
+      "content": "Expect departure at 49, start up at own discretion, QNH 1004.",
+      "trans": "预计49分离港，开车时间自己掌握，修正海压1004。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/497.mp3"
+    },
+    {
+      "id": 99,
+      "content": "Radio check on 118.3.",
+      "trans": "118.3校波。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/92.mp3"
+    },
+    {
+      "id": 100,
+      "content": "I read you 5.",
+      "trans": "我听你5个。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/51.mp3"
+    },
+    {
+      "id": 101,
+      "content": "You are unreadable.",
+      "trans": "无法听清。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/24.mp3"
+    },
+    {
+      "id": 102,
+      "content": "Can you speak slower?",
+      "trans": "你能说慢点吗？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/53.mp3"
+    },
+    {
+      "id": 103,
+      "content": "How do you read?",
+      "trans": "你听我声音怎样？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/52.mp3"
+    },
+    {
+      "id": 104,
+      "content": "QNH 997, I say again, QNH 997.",
+      "trans": "修正海压997，我再说一遍，修正海压997。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/261.mp3"
+    },
+    {
+      "id": 105,
+      "content": "Stand 27, request pushback.",
+      "trans": "停机位27号，请求推出。 *Note：此处“27”也可能读成“twenty seven”.",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/127.mp3"
+    },
+    {
+      "id": 106,
+      "content": "Pushback approved, Runway 31.",
+      "trans": "同意推出，跑道31号。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/135.mp3"
+    },
+    {
+      "id": 107,
+      "content": "Stand by pushback.",
+      "trans": "推出稍等。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/22.mp3"
+    },
+    {
+      "id": 108,
+      "content": "Pushback at own discretion.",
+      "trans": "推出时间自己掌握。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/66.mp3"
+    },
+    {
+      "id": 109,
+      "content": "Pushback approved, long pushback.",
+      "trans": "同意推出，多推点。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/72.mp3"
+    },
+    {
+      "id": 110,
+      "content": "Pushback to taxiway A approved.",
+      "trans": "同意推出至滑行道A。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/145.mp3"
+    },
+    {
+      "id": 111,
+      "content": "Pushback approved, facing west.",
+      "trans": "同意推出，朝西。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/70.mp3"
+    },
+    {
+      "id": 112,
+      "content": "Cancel pushback, we have maintenance problem.",
+      "trans": "取消推出，我们出现问题需维修。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/250.mp3"
+    },
+    {
+      "id": 113,
+      "content": "Ground, Cockpit. Ready for pushback.",
+      "trans": "地面，驾驶舱。准备好推出了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/169.mp3"
+    },
+    {
+      "id": 114,
+      "content": "Brakes released.",
+      "trans": "刹车松了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/9.mp3"
+    },
+    {
+      "id": 115,
+      "content": "Starting Number One.",
+      "trans": "启动一发。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/27.mp3"
+    },
+    {
+      "id": 116,
+      "content": "Brakes set, disconnect.",
+      "trans": "刹车刹住，断开。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/39.mp3"
+    },
+    {
+      "id": 117,
+      "content": "Request taxi.",
+      "trans": "请求滑行。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/3.mp3"
+    },
+    {
+      "id": 118,
+      "content": "Taxi via taxiway C to holding point Runway 24.",
+      "trans": "经由滑行道C滑至24号跑道等待点。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/393.mp3"
+    },
+    {
+      "id": 119,
+      "content": "Taxi to holding point Runway 24, traffic in sight.",
+      "trans": "滑到24号跑道等待点，看见飞机了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/402.mp3"
+    },
+    {
+      "id": 120,
+      "content": "Request taxi back for maintenance purpose.",
+      "trans": "请求滑回进行维护。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/238.mp3"
+    },
+    {
+      "id": 121,
+      "content": "Negative. We need 10 minutes to cool the brakes.",
+      "trans": "不行。我们需要10分钟冷却刹车。 *Note: 此处“10”可能读成“ten”.",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/398.mp3"
+    },
+    {
+      "id": 122,
+      "content": "Approaching holding point, request crossing Runway 24.",
+      "trans": "接近等待点，请求穿越24号跑道。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20220411/6253c37192956.mp3"
+    },
+    {
+      "id": 123,
+      "content": "Hold short of Runway 24.",
+      "trans": "24号跑道外等待。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/119.mp3"
+    },
+    {
+      "id": 124,
+      "content": "Holding, traffic in sight.",
+      "trans": "等待，看见（飞机）了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/65.mp3"
+    },
+    {
+      "id": 125,
+      "content": "Cross Runway 24, report runway vacated.",
+      "trans": "穿越24号跑道，脱离跑道时报告。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/229.mp3"
+    },
+    {
+      "id": 126,
+      "content": "Unable to vacate via A2, request full length of runway.",
+      "trans": "不能经由滑行道A2脱离，请求全长跑道。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/415.mp3"
+    },
+    {
+      "id": 127,
+      "content": "Crossing Runway 24, wilco.",
+      "trans": "穿越24号跑道，照办。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/121.mp3"
+    },
+    {
+      "id": 128,
+      "content": "Runway vacated.",
+      "trans": "已脱离跑道。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/6.mp3"
+    },
+    {
+      "id": 129,
+      "content": "Giving way to B747 passing from left to right.",
+      "trans": "给从左向右通过的波音747让道。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/394.mp3"
+    },
+    {
+      "id": 130,
+      "content": "Follow the greens to holding point Runway 05R.",
+      "trans": "沿绿灯滑到05右跑道等待点。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/345.mp3"
+    },
+    {
+      "id": 131,
+      "content": "Cross red stop-bar at A1, we understand stop-bar unserviceable.",
+      "trans": "可以在A1穿越红色停止灯，明白了原来它不工作。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/434.mp3"
+    },
+    {
+      "id": 132,
+      "content": "After landing Airbus320, cross Runway 24, report vacated.",
+      "trans": "空客320飞机落地后，穿越24号跑道，脱离时报告。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/377.mp3"
+    },
+    {
+      "id": 133,
+      "content": "Taxi to holding point C3, Runway 36.",
+      "trans": "滑行至36号跑道C3等待点。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/270.mp3"
+    },
+    {
+      "id": 134,
+      "content": "Behind Boeing747 passing left to right, taxi to holding point A1 Runway 24.",
+      "trans": "后面的波音747从左向右通过后，滑行至24号跑道等待点A1。 （注：由的考点抽到的是passing from left to right）",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/584.mp3"
+    },
+    {
+      "id": 135,
+      "content": "Ready for departure.",
+      "trans": "准备好起飞了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/28.mp3"
+    },
+    {
+      "id": 136,
+      "content": "After departure, climb straight ahead until 3000 feet.",
+      "trans": "起飞后，直线爬升至3000英尺。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/369.mp3"
+    },
+    {
+      "id": 137,
+      "content": "Cancel SID, maintain runway heading.",
+      "trans": "取消标准仪表离场，保持跑道航向。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/171.mp3"
+    },
+    {
+      "id": 138,
+      "content": "Lining up Runway 01C.",
+      "trans": "进入01C号跑道。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20201217/5fdb182d49a94.mp3"
+    },
+    {
+      "id": 139,
+      "content": "Ready for immediate departure.",
+      "trans": "准备立即起飞。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/68.mp3"
+    },
+    {
+      "id": 140,
+      "content": "Cleared for immediate takeoff.",
+      "trans": "可以立即起飞。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/69.mp3"
+    },
+    {
+      "id": 141,
+      "content": "Runway 06, cleared for takeoff. Report airborne.",
+      "trans": "跑道06，可以起飞，离地后报告。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20230925/6510f2e826524.mp3"
+    },
+    {
+      "id": 142,
+      "content": "Cleared for takeoff, Runway 06, wilco.",
+      "trans": "可以起飞，跑道06，照办。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/222.mp3"
+    },
+    {
+      "id": 143,
+      "content": "Airborne, passing 500 feet for 4000 feet.",
+      "trans": "离地了，正在通过高度500英尺，继续上升4000英尺。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20231101/6541eb8f39fd2.mp3"
+    },
+    {
+      "id": 144,
+      "content": "The airbus on final in sight.",
+      "trans": "看见了五边上的空客飞机。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/196.mp3"
+    },
+    {
+      "id": 145,
+      "content": "Behind Airbus on short final, line up behind.",
+      "trans": "短五边的空客飞机落地后，可以进跑道。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/337.mp3"
+    },
+    {
+      "id": 146,
+      "content": "After departure, turn left heading 190, Runway 24R, cleared for takeoff.",
+      "trans": "起飞后，左转航向190，跑道24右，可以起飞。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/521.mp3"
+    },
+    {
+      "id": 147,
+      "content": "Request right turn when airborne due weather.",
+      "trans": "由于天气，离地后请求右转。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20230925/6510ef2d3efda.mp3"
+    },
+    {
+      "id": 148,
+      "content": "Take off immediately or hold short of runway.",
+      "trans": "立即起飞，否则跑道外等待。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/338.mp3"
+    },
+    {
+      "id": 149,
+      "content": "Take off immediately or vacate runway.",
+      "trans": "立即起飞，否则脱离跑道。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/220.mp3"
+    },
+    {
+      "id": 150,
+      "content": "Hold position, cancel takeoff, I say again, cancel takeoff.",
+      "trans": "原地等待，取消起飞指令，我再说一遍，取消起飞指令。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/422.mp3"
+    },
+    {
+      "id": 151,
+      "content": "Holding position.",
+      "trans": "原地等待。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/12.mp3"
+    },
+    {
+      "id": 152,
+      "content": "Stopping! Engine fire.",
+      "trans": "中断起飞！发动机起火了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/34.mp3"
+    },
+    {
+      "id": 153,
+      "content": "Request return to ramp.",
+      "trans": "请求滑回机坪。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/58.mp3"
+    },
+    {
+      "id": 154,
+      "content": "Tire burst, possible evacuation on runway.",
+      "trans": "爆胎了，可能要在跑道上撤离。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/239.mp3"
+    },
+    {
+      "id": 155,
+      "content": "Negative intersection departure due performance.",
+      "trans": "由于性能限制，不能使用减跑道起飞。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/185.mp3"
+    },
+    {
+      "id": 156,
+      "content": "Affirm. We can accept intersection departure from C2.",
+      "trans": "可以。我们可以接受从C2进跑道起飞。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/366.mp3"
+    },
+    {
+      "id": 157,
+      "content": "Request intersection departure from C2.",
+      "trans": "请求从C2减跑道起飞",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/227.mp3"
+    },
+    {
+      "id": 158,
+      "content": "Request Takeoff Runway Available (TORA) from intersection C2.",
+      "trans": "请问从C2起飞的可用跑道长度是多少？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/328.mp3"
+    },
+    {
+      "id": 159,
+      "content": "Request Accelerate-Stop Distance Available (ASDA) from intersection D1.",
+      "trans": "请问从D1进跑道的可用加速停止距离是多少？",
+      "audio": "https://resource.feizhiyi.com/fzy/uploads/exercise/other/20250225/20250225091615-67bd19df4a60b.mp3"
+    },
+    {
+      "id": 160,
+      "content": "Request Takeoff Distance Available (TODA) from intersection E3.",
+      "trans": "请问从E3进跑道的可用起飞距离是多少？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/330.mp3"
+    },
+    {
+      "id": 161,
+      "content": "Line up and wait. Understand one aircraft to depart from A2.",
+      "trans": "进跑道等待，明白有飞机从A2起飞。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/495.mp3"
+    },
+    {
+      "id": 162,
+      "content": "Airbus 330 heavy, 8000 feet, Information X.",
+      "trans": "空客330，重型机，8000英尺，通播X收到。 Note: 330可能读成three thirty.",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/292.mp3"
+    },
+    {
+      "id": 163,
+      "content": "Join right-hand downwind, Runway 34.",
+      "trans": "加入34号跑道右三边。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/172.mp3"
+    },
+    {
+      "id": 164,
+      "content": "Number Two, follow airbus 330 on base.",
+      "trans": "第二个，跟着四边的空客330。 Note: 330可能读成three thirty.",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/272.mp3"
+    },
+    {
+      "id": 165,
+      "content": "Number Two, traffic in sight.",
+      "trans": "第二个，看见飞机了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/136.mp3"
+    },
+    {
+      "id": 166,
+      "content": "Straight-in visual approach, Runway 34.",
+      "trans": "直接目视进近，跑道34号。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/178.mp3"
+    },
+    {
+      "id": 167,
+      "content": "Extend downwind, Number Two, airbus 320 in sight.",
+      "trans": "延长三边，第二个，看见空客320了。 *Note: 此处“320”可能读成“tree twenty”.",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/355.mp3"
+    },
+    {
+      "id": 168,
+      "content": "Orbit right. Number Two.",
+      "trans": "右转一圈。第二个。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/59.mp3"
+    },
+    {
+      "id": 169,
+      "content": "Number Two, follow airbus 320 ahead.",
+      "trans": "第二个，跟着前面的空客320。 *Note: 此处“320”可能读成“tree twenty”.",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/217.mp3"
+    },
+    {
+      "id": 170,
+      "content": "Make a short approach.",
+      "trans": "五边不要太长。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/56.mp3"
+    },
+    {
+      "id": 171,
+      "content": "Long final, airfield in sight.",
+      "trans": "长五边，看见机场了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/141.mp3"
+    },
+    {
+      "id": 172,
+      "content": "Continue approach Runway 25.",
+      "trans": "继续进近，跑道25号。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/131.mp3"
+    },
+    {
+      "id": 173,
+      "content": "Runway 27, cleared to land.",
+      "trans": "跑道27号，可以落地。 *Note：此处“27”也可能读成“twenty seven”.",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20231031/654098b038cdc.mp3"
+    },
+    {
+      "id": 174,
+      "content": "Short final, request wind check.",
+      "trans": "短五边，请问风向风速。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/149.mp3"
+    },
+    {
+      "id": 175,
+      "content": "Request low pass due unsafe landing gear indication.",
+      "trans": "由于不安全的起落架指示，请求低空通场。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/363.mp3"
+    },
+    {
+      "id": 176,
+      "content": "Low pass approved Runway 27, not below 500 feet.",
+      "trans": "可以低空通场，跑道27，高度不低于500英尺。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/400.mp3"
+    },
+    {
+      "id": 177,
+      "content": "Landing clearance canceled. Continue approach.",
+      "trans": "取消落地许可。继续进近。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/183.mp3"
+    },
+    {
+      "id": 178,
+      "content": "Behind the Boeing737, cleared to land.",
+      "trans": "波音737落地后，可以落地。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/273.mp3"
+    },
+    {
+      "id": 179,
+      "content": "Request low approach.",
+      "trans": "请求低高度进近。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/30.mp3"
+    },
+    {
+      "id": 180,
+      "content": "Runway not in sight, going around.",
+      "trans": "看不见跑道，复飞了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/209.mp3"
+    },
+    {
+      "id": 181,
+      "content": "No contact at minimum, going around.",
+      "trans": "看不见地面，复飞了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/216.mp3"
+    },
+    {
+      "id": 182,
+      "content": "Wind shear, going around.",
+      "trans": "风切变，复飞了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/60.mp3"
+    },
+    {
+      "id": 183,
+      "content": "Going around, localizer fluctuation.",
+      "trans": "复飞了，航向道波动。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/115.mp3"
+    },
+    {
+      "id": 184,
+      "content": "Follow the standard missed approach procedure, climbing to 3000 feet.",
+      "trans": "按照标准的复飞程序，上升到3000英尺。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/478.mp3"
+    },
+    {
+      "id": 185,
+      "content": "Take first right. When vacated, contact Ground 118.35.",
+      "trans": "第一个道口右转。脱离跑道后，联系地面118.35。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/370.mp3"
+    },
+    {
+      "id": 186,
+      "content": "After vacated contact Ground 121.6.",
+      "trans": "脱离跑道后，联系地面121.6。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/167.mp3"
+    },
+    {
+      "id": 187,
+      "content": "Taxi to Stand 27 via Taxiway A.",
+      "trans": "经由滑行道A，滑行至27号停机位。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/262.mp3"
+    },
+    {
+      "id": 188,
+      "content": "Taxi to the end of Runway.",
+      "trans": "滑到跑道末端。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/192.mp3"
+    },
+    {
+      "id": 189,
+      "content": "Confirm construction work adjacent to Gate 37.",
+      "trans": "证实37号停机位附近正在施工。 Note: 37可能读成“thirty seven”。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/303.mp3"
+    },
+    {
+      "id": 190,
+      "content": "Confirm centerline taxiway lighting unserviceable.",
+      "trans": "证实中线滑行道灯不工作。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20200609/5edee93e90632.mp3"
+    },
+    {
+      "id": 191,
+      "content": "Confirm PAPI light unserviceable.",
+      "trans": "证实PAPI灯不工作。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/73.mp3"
+    },
+    {
+      "id": 192,
+      "content": "The Runway light is too bright. Request dim it.",
+      "trans": "跑道灯太亮。请调暗一些。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/396.mp3"
+    },
+    {
+      "id": 193,
+      "content": "Flock of birds 3 miles final.",
+      "trans": "五边3海里处有鸟群。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/197.mp3"
+    },
+    {
+      "id": 194,
+      "content": "Runway covered with patches of water, braking action medium.",
+      "trans": "大片水覆盖跑道，刹车效应中等。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/327.mp3"
+    },
+    {
+      "id": 195,
+      "content": "Confirm airport rescue and fire facilities category.",
+      "trans": "证实机场救援和防火设备的种类。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/319.mp3"
+    },
+    {
+      "id": 196,
+      "content": "Is the weather improving or deteriorating?",
+      "trans": "天气在好转还是恶化？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/240.mp3"
+    },
+    {
+      "id": 197,
+      "content": "Thicker patches of fog exist further along the runway. RVR significantly reduced.",
+      "trans": "跑道后端雾会变浓。跑道视程明显变差。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/630.mp3"
+    },
+    {
+      "id": 198,
+      "content": "Confirm current RVR less than 400 meters.",
+      "trans": "证实最新RVR小于400米。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/285.mp3"
+    },
+    {
+      "id": 199,
+      "content": "Confirm visibility more than 1000 meters.",
+      "trans": "证实能见度大于1000米。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/180.mp3"
+    },
+    {
+      "id": 200,
+      "content": "Is mid-point RVR available?",
+      "trans": "中间点的RVR可用吗？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/194.mp3"
+    },
+    {
+      "id": 201,
+      "content": "Confirm RVR Runway 27.",
+      "trans": "证实27号跑道的RVR。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/95.mp3"
+    },
+    {
+      "id": 202,
+      "content": "RVR Runway 27 is 600 meters.",
+      "trans": "27号跑道的RVR是600米。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/195.mp3"
+    },
+    {
+      "id": 203,
+      "content": "Confirm touchdown RVR greater than 350 meters.",
+      "trans": "证实接地点RVR大于350米。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/304.mp3"
+    },
+    {
+      "id": 204,
+      "content": "Confirm stop-end RVR 150 meters.",
+      "trans": "证实停止端RVR150米。 *Note: 此处“150”可能读成“one hundred and fifty”.",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/156.mp3"
+    },
+    {
+      "id": 205,
+      "content": "Confirm midpoint RVR more than 550 meters.",
+      "trans": "证实中间段RVR大于550米。 *Note: 此处“550”可能读成“five hundred and fifty”.",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/291.mp3"
+    },
+    {
+      "id": 206,
+      "content": "Confirm threshold Runway 27 displaced.",
+      "trans": "证实27号跑道入口内移。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/176.mp3"
+    },
+    {
+      "id": 207,
+      "content": "The runway surface is damp. Braking action good.",
+      "trans": "跑道道面潮湿。刹车效应好。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/350.mp3"
+    },
+    {
+      "id": 208,
+      "content": "Confirm the reason for our flight suspension.",
+      "trans": "证实我们航班暂停的原因。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/297.mp3"
+    },
+    {
+      "id": 209,
+      "content": "Confirm our flight has been suspended due bio-hazards at destination.",
+      "trans": "证实我们航班暂停是由于目的地机场生化物品泄露。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/479.mp3"
+    },
+    {
+      "id": 210,
+      "content": "Confirm the reason for impounding our aircraft.",
+      "trans": "证实扣押我们飞机的原因。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/306.mp3"
+    },
+    {
+      "id": 211,
+      "content": "Tow approved via A to remote apron.",
+      "trans": "经滑行道A拖飞机至远机坪。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/266.mp3"
+    },
+    {
+      "id": 212,
+      "content": "Request de-icing.",
+      "trans": "请求除冰。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/13.mp3"
+    },
+    {
+      "id": 213,
+      "content": "Request frost removal only at the gate.",
+      "trans": "请求只在停机位除霜。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20221027/6359ee3e3bcb6.mp3"
+    },
+    {
+      "id": 214,
+      "content": "De-icing completed. Request taxi.",
+      "trans": "完成除冰。请求滑行。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/74.mp3"
+    },
+    {
+      "id": 215,
+      "content": "Request start engine at the gate.",
+      "trans": "请求在停机位开车。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/205.mp3"
+    },
+    {
+      "id": 216,
+      "content": "Request time check.",
+      "trans": "请求校时。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/25.mp3"
+    },
+    {
+      "id": 217,
+      "content": "Request backtrack.",
+      "trans": "请求掉头。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/15.mp3"
+    },
+    {
+      "id": 218,
+      "content": "Unable BK-1A Departure due performance. Request BK-1B.",
+      "trans": "由于性能原因，不能BK-1A号离场。请求BK-1B（离场）。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/323.mp3"
+    },
+    {
+      "id": 219,
+      "content": "Request departure instruction.",
+      "trans": "请求离场指令。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/49.mp3"
+    },
+    {
+      "id": 220,
+      "content": "When airborne, track extended center-line, cleared for takeoff,Runway 18.",
+      "trans": "离地后，保持跑道中心的延长线，跑道18，可以起飞。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/486.mp3"
+    },
+    {
+      "id": 221,
+      "content": "Contact Arrival 118.050.",
+      "trans": "联系进场118.050。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/86.mp3"
+    },
+    {
+      "id": 222,
+      "content": "Request remote apron for maintenance purpose.",
+      "trans": "由于维护原因请求远机坪停机。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/251.mp3"
+    }
+  ]
+}

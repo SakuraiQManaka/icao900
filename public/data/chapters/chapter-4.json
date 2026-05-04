@@ -1,0 +1,531 @@
+{
+  "meta": {
+    "quiz_name": "ICAO-第四章 进近管制通话术语",
+    "export_time": "2026-05-01T15:40:31.295Z",
+    "total_questions": 87
+  },
+  "questions": [
+    {
+      "id": 293,
+      "content": "Right heading 040 until passing FL70 then direct to BK.",
+      "trans": "右转航向040直到通过高度层70，然后直飞BK。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20231017/652e42973ece3.mp3"
+    },
+    {
+      "id": 294,
+      "content": "Direct to JO, descend to FL50.",
+      "trans": "直飞JO，下降到高度层50。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/199.mp3"
+    },
+    {
+      "id": 295,
+      "content": "Passing FL70.",
+      "trans": "通过高度层70。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/77.mp3"
+    },
+    {
+      "id": 296,
+      "content": "Descending to 4000 feet QNH1005, expect ILS approach Runway 24.",
+      "trans": "下降到4000英尺，修正海压1005，预计盲降进近，跑道24号。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/466.mp3"
+    },
+    {
+      "id": 297,
+      "content": "Request straight-in ILS approach Runway 24.",
+      "trans": "请求直接盲降进近，跑道24号。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/246.mp3"
+    },
+    {
+      "id": 298,
+      "content": "Cleared straight-in ILS approach Runway 24, descend to 3000 feet, QNH1011.",
+      "trans": "可以直接盲降进近，跑道24号，下降到3000英尺，修正海压1011。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/524.mp3"
+    },
+    {
+      "id": 299,
+      "content": "Airfield in sight, request visual approach.",
+      "trans": "看见机场了，请求目视进近。 Note: 前部分也有可能读成Field in sight.",
+      "audio": "https://resource.feizhiyi.com/fzy/uploads/exercise/other/20250604/20250604153506-683ff72a4f03b.mp3"
+    },
+    {
+      "id": 300,
+      "content": "When established on the localizer, descend on the glide path.",
+      "trans": "建立好航向道后，沿下滑航径下降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/463.mp3"
+    },
+    {
+      "id": 301,
+      "content": "Established on the localizer.",
+      "trans": "已经建立好航向道。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/110.mp3"
+    },
+    {
+      "id": 302,
+      "content": "Fully established Runway 24.",
+      "trans": "完全建立了，跑道24号。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/109.mp3"
+    },
+    {
+      "id": 303,
+      "content": "Cleared VOR-DME approach Runway 24, descending to 3000 feet QNH1007.",
+      "trans": "可以VOR-DME进近，跑道24号，下降到3000英尺，修正海压1007。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/477.mp3"
+    },
+    {
+      "id": 304,
+      "content": "Runway in sight.",
+      "trans": "看见跑道了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/18.mp3"
+    },
+    {
+      "id": 305,
+      "content": "Number One, contact Tower 118.7.",
+      "trans": "第一个，联系塔台118.7。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/154.mp3"
+    },
+    {
+      "id": 306,
+      "content": "Passing outer marker.",
+      "trans": "过外指点标了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/31.mp3"
+    },
+    {
+      "id": 307,
+      "content": "Report MQR outbound.",
+      "trans": "MQR背台报告。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/83.mp3"
+    },
+    {
+      "id": 308,
+      "content": "Procedure turn completed, localizer established.",
+      "trans": "完成程序转弯，并建立好航向道。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/186.mp3"
+    },
+    {
+      "id": 309,
+      "content": "Request visual approach.",
+      "trans": "请求目视进近。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/42.mp3"
+    },
+    {
+      "id": 310,
+      "content": "Cleared visual approach Runway 24.",
+      "trans": "可以目视进近，跑道24号。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/165.mp3"
+    },
+    {
+      "id": 311,
+      "content": "Request holding instructions.",
+      "trans": "请求等待指令。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/48.mp3"
+    },
+    {
+      "id": 312,
+      "content": "Hold over BKM VOR at FL100, inbound track 280 degrees, left hand pattern, outbound time 1 minute.",
+      "trans": "在BKMVOR台等待，高度层100，向台航迹280度，左等待，背台时间1分钟。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/696.mp3"
+    },
+    {
+      "id": 313,
+      "content": "Request holding procedure.",
+      "trans": "请求等待程序。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/46.mp3"
+    },
+    {
+      "id": 314,
+      "content": "Hold on the 265 radial of BKM VOR between 25 and 30 miles DME, FL100, inbound track 085, right hand pattern, expected approach time 1022.",
+      "trans": "在BKMVOR台265度径向线，DME距离25至30海里之间等待，高度层100，向台航迹085，右等待，预计进近时间1022。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/730.mp3"
+    },
+    {
+      "id": 315,
+      "content": "Hold at 20 DME of ST VOR, FL100, inbound track 260 degrees, left turns, limiting outbound distance 24 DME.",
+      "trans": "在STVOR台DME20海里等待，高度层100，向台航迹260度，左转，限制背台距离DME24海里。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/731.mp3"
+    },
+    {
+      "id": 316,
+      "content": "Overhead YV, maintaining 3000 feet, entering hold.",
+      "trans": "飞越YV，保持3000英尺，进入等待。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/318.mp3"
+    },
+    {
+      "id": 317,
+      "content": "Leaving BKM VOR heading 110.",
+      "trans": "离开BKMVOR台，航向110。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/133.mp3"
+    },
+    {
+      "id": 318,
+      "content": "Leaving FL60, descending to 2500 feet, QNH1008.",
+      "trans": "离开高度层60，下降到2500英尺，修正海压1008。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/308.mp3"
+    },
+    {
+      "id": 319,
+      "content": "Position 10 miles north east of LN.",
+      "trans": "位置在LN东北方向，10海里。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/267.mp3"
+    },
+    {
+      "id": 320,
+      "content": "Turn right heading180 for base leg.",
+      "trans": "右转航向180加入四边。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/268.mp3"
+    },
+    {
+      "id": 321,
+      "content": "Reduce to minimum approach speed, turn right heading 230,cleared for ILS approach Runway 27.",
+      "trans": "减小到最小进近速度，右转航向230，可以盲降进近，跑道27号。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/690.mp3"
+    },
+    {
+      "id": 322,
+      "content": "No ATC speed restrictions. Contact Tower 118.9.",
+      "trans": "ATC没有速度限制。联系塔台118.9。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/307.mp3"
+    },
+    {
+      "id": 323,
+      "content": "Three sixty turn left for delay.",
+      "trans": "由于延误，左转360度。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/201.mp3"
+    },
+    {
+      "id": 324,
+      "content": "Continue present heading, expect through the localizer for spacing.",
+      "trans": "继续当前航向，由于间隔，预计穿越航向道。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/442.mp3"
+    },
+    {
+      "id": 325,
+      "content": "Surveillance radar approach Runway 27, maintaining 2200 feet.",
+      "trans": "监视雷达进近，跑道27号，保持2200英尺。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/382.mp3"
+    },
+    {
+      "id": 326,
+      "content": "QNH1003, threshold elevation 196 feet.",
+      "trans": "修正海压1003，入口处标高196英尺。 Note：QNH可能会读成“query normal height”。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/225.mp3"
+    },
+    {
+      "id": 327,
+      "content": "Precision radar approach Runway 27 heading 260, descending to 2500 feet, QNH1014.",
+      "trans": "精密雷达进近，跑道27号，航向260，下降到2500英尺，修正海压1014。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/526.mp3"
+    },
+    {
+      "id": 328,
+      "content": "Cleared to JEMMY via BK 1A Arrival.",
+      "trans": "可以经由BK-1A标准仪表进场去往JEMMY。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/213.mp3"
+    },
+    {
+      "id": 329,
+      "content": "Descend to reach 5000 feet by BK.",
+      "trans": "BK点前下降高度到5000英尺。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/207.mp3"
+    },
+    {
+      "id": 330,
+      "content": "When ready, descend to FL200. Report leaving FL300.",
+      "trans": "准备好时，下降到高度层200。离开高度300报告。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/361.mp3"
+    },
+    {
+      "id": 331,
+      "content": "Descend immediately FL250.",
+      "trans": "立即下降到高度250。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/87.mp3"
+    },
+    {
+      "id": 332,
+      "content": "Descend to altitude 12000 feet QNH 1000.",
+      "trans": "下降到12000英尺，修正海压1000。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/280.mp3"
+    },
+    {
+      "id": 333,
+      "content": "Descend to height 2000 feet QFE 997 hectopascals.",
+      "trans": "下降到场高2000英尺，场压997百帕。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/356.mp3"
+    },
+    {
+      "id": 334,
+      "content": "Descend to 8000 feet at 1000 feet per minute or greater.",
+      "trans": "下降到8000英尺，下降率保持或大于1000英尺/分钟。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20230522/646b3c9f8653a.mp3"
+    },
+    {
+      "id": 335,
+      "content": "Maintain own separation and VMC, descend to FL50.",
+      "trans": "正保持自己的间隔和目视气象条件，正下降到高度层50。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/316.mp3"
+    },
+    {
+      "id": 336,
+      "content": "Increasing rate of climb.",
+      "trans": "增加上升率。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/63.mp3"
+    },
+    {
+      "id": 337,
+      "content": "Unable expedite climb due weight.",
+      "trans": "由于重量，不能加速上升。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/159.mp3"
+    },
+    {
+      "id": 338,
+      "content": "Climb to 6000 feet, follow KODAP 01 Departure.",
+      "trans": "上升到6000英尺，按照KODAP-01号标准仪表离场。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/255.mp3"
+    },
+    {
+      "id": 339,
+      "content": "Passing altitude 2300 feet, climbing to FL80.",
+      "trans": "过高度2300英尺，上升到高度层80。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/298.mp3"
+    },
+    {
+      "id": 340,
+      "content": "Climb to FL210, level restrictions of KODAP 01 Departure canceled.",
+      "trans": "上升到高度210，取消KODAP-01号标准仪表离场的高度限制。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/438.mp3"
+    },
+    {
+      "id": 341,
+      "content": "Climb to FL 210, cross AU at FL100 or below.",
+      "trans": "上升到高度210，飞越AU时不高于高度层100。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/391.mp3"
+    },
+    {
+      "id": 342,
+      "content": "Climb to FL290, level at time 55.",
+      "trans": "爬升到高度290，55分改平。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/264.mp3"
+    },
+    {
+      "id": 343,
+      "content": "Unable FL390 by boundary, request FL330.",
+      "trans": "交接点之前不能到达高度层390，请求高度层330。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/233.mp3"
+    },
+    {
+      "id": 344,
+      "content": "Descend to FL100, cross YU FL150 or above.",
+      "trans": "下降到高度层100，飞跃YU时不低于高度层150。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/333.mp3"
+    },
+    {
+      "id": 345,
+      "content": "After passing North Cross, descend to FL150.",
+      "trans": "过了NorthCross，下降到高度150。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/294.mp3"
+    },
+    {
+      "id": 346,
+      "content": "We are far above profile. Request holding.",
+      "trans": "我们太高了，请求等待。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/287.mp3"
+    },
+    {
+      "id": 347,
+      "content": "Stop descent at 5000 feet.",
+      "trans": "5000英尺停止下降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/123.mp3"
+    },
+    {
+      "id": 348,
+      "content": "Expedite descent until passing FL80.",
+      "trans": "加速下降通过高度层80。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/173.mp3"
+    },
+    {
+      "id": 349,
+      "content": "Expect descent after AK.",
+      "trans": "预计过AK后下降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/100.mp3"
+    },
+    {
+      "id": 350,
+      "content": "Continue approach Runway 36R, maintain visual separation with preceding traffic.",
+      "trans": "继续进近，跑道36右，与前机保持目视间隔。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/489.mp3"
+    },
+    {
+      "id": 351,
+      "content": "Contact Control 80 miles after BK.",
+      "trans": "过BK80海里处联系区调。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/166.mp3"
+    },
+    {
+      "id": 352,
+      "content": "Request change to London Control.",
+      "trans": "请求换到伦敦管制频率。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/160.mp3"
+    },
+    {
+      "id": 353,
+      "content": "Monitor Tower 118.1.",
+      "trans": "监听塔台频率118.1。 在部分考点，decimal会读成point",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/84.mp3"
+    },
+    {
+      "id": 354,
+      "content": "Remain this frequency.",
+      "trans": "本频率长守。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/36.mp3"
+    },
+    {
+      "id": 355,
+      "content": "We can see the approach lights at 200 feet.",
+      "trans": "200英尺我们能看到进近灯。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/334.mp3"
+    },
+    {
+      "id": 356,
+      "content": "Cleared VOR approach Runway 36, followed by circling to Runway 18.",
+      "trans": "可以VOR进近，跑道36号，按照航图目视盘旋，18号落地。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/508.mp3"
+    },
+    {
+      "id": 357,
+      "content": "Expect commencing approach at time 50.",
+      "trans": "预计开始进近时间50分。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/223.mp3"
+    },
+    {
+      "id": 358,
+      "content": "Unable circling approach due company policy. Request diversion.",
+      "trans": "由于公司政策，不能盘旋进近。请求改航。 *Note：单词diversion有两种读音方式，一种是[dɪˈvɜːʃn]，另一种是[daɪˈvɜːʃn]。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/385.mp3"
+    },
+    {
+      "id": 359,
+      "content": "Request RNAV approach.",
+      "trans": "请求RNAV进近。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/37.mp3"
+    },
+    {
+      "id": 360,
+      "content": "RNAV approach not available due FMS database. Request VOR approach.",
+      "trans": "由于FMS数据库原因，RNAV不可用。请求VOR进近。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/475.mp3"
+    },
+    {
+      "id": 361,
+      "content": "Cleared for LDA approach Runway 24.",
+      "trans": "可以航向道偏离进近，跑道24号。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/214.mp3"
+    },
+    {
+      "id": 362,
+      "content": "Unable RNAV due equipment, request conventional arrival.",
+      "trans": "由于设备，不能RNAV进近，请求常规进场。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/326.mp3"
+    },
+    {
+      "id": 363,
+      "content": "Unable RNAV, loss of RAIM, request NDB approach",
+      "trans": "由于RAIM丢失，不能RNAV进近，请求NDB进近。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/346.mp3"
+    },
+    {
+      "id": 364,
+      "content": "GPS primary lost, going around.",
+      "trans": "失去GPS主用，复飞了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/146.mp3"
+    },
+    {
+      "id": 365,
+      "content": "RAIM alert, going around.",
+      "trans": "RAIM警告，复飞了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/64.mp3"
+    },
+    {
+      "id": 366,
+      "content": "Negative RNAV.",
+      "trans": "不能RNAV进近。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/5.mp3"
+    },
+    {
+      "id": 367,
+      "content": "Proceed to AK, hold as published, expect approach clearance at 30.",
+      "trans": "直飞AK，按公布许可等待，预计进近许可30分。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/504.mp3"
+    },
+    {
+      "id": 368,
+      "content": "Request hold for weather improvement, visibility below company minima.",
+      "trans": "请求等待天气好转，能见度低于公司最低值。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/444.mp3"
+    },
+    {
+      "id": 369,
+      "content": "Hold at BKM VOR FL250, right hand pattern, expect further clearance at 23, landing delay at destination airport 30 minutes.",
+      "trans": "在BKMVOR台等待，高度250，右等待，预计进一步许可23分，目的地机场着陆延误30分钟。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/732.mp3"
+    },
+    {
+      "id": 370,
+      "content": "Holding northwest of W VOR FL120, what is the delay for approach?",
+      "trans": "WVOR台西北等待，高度120，请问进近的延误情况。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/505.mp3"
+    },
+    {
+      "id": 371,
+      "content": "Request to extend the holding pattern for accomplishing the checklist.",
+      "trans": "请求延长等待以完成检查单。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/481.mp3"
+    },
+    {
+      "id": 372,
+      "content": "Request extended holding to burn fuel to reduce the weight.",
+      "trans": "请求延长等待以便消耗油减少重量。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/456.mp3"
+    },
+    {
+      "id": 373,
+      "content": "Cleared for CAT II ILS approach Runway 24.",
+      "trans": "准许Ⅱ类盲降进近，跑道24号。 Note: CAT读为Catgory。24有可能读为“twenty four”。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/290.mp3"
+    },
+    {
+      "id": 374,
+      "content": "Join right hand downwind, visual approach Runway 24.",
+      "trans": "加入右三边，目视进近，跑道24号。 *Note: 数字24可能会读成“twenty four”。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/321.mp3"
+    },
+    {
+      "id": 375,
+      "content": "Continue approach, prepare for possible go around.",
+      "trans": "继续进近，做好可能复飞的准备。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/317.mp3"
+    },
+    {
+      "id": 376,
+      "content": "Disregard. We made the wrong transmission.",
+      "trans": "指令作废。我们发错报了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/241.mp3"
+    },
+    {
+      "id": 377,
+      "content": "Roger, request continue approach.",
+      "trans": "明白，请求继续进近。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/75.mp3"
+    },
+    {
+      "id": 378,
+      "content": "Stand by. We are carrying out procedures.",
+      "trans": "稍等。我们正在执行程序。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/282.mp3"
+    },
+    {
+      "id": 379,
+      "content": "Wilco, words twice.",
+      "trans": "照办，每字发两遍。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/26.mp3"
+    }
+  ]
+}

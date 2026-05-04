@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "quiz_name": "ICAO-第七章 气象通话术语",
+    "export_time": "2026-05-01T15:43:52.077Z",
+    "total_questions": 100
+  },
+  "questions": [
+    {
+      "id": 699,
+      "content": "Ice is accumulating rapidly on the wings and fuselage. Request emergency descent to 6000 feet.",
+      "trans": "机翼和机身的积冰速度很快。申请紧急下降到6000英尺。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/817.mp3"
+    },
+    {
+      "id": 700,
+      "content": "We are encountering moderate icing. Request immediate descent.",
+      "trans": "我们遇到了中度结冰。请求立即下降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/384.mp3"
+    },
+    {
+      "id": 701,
+      "content": "We made a diversion due to reports of freezing rain at our original destination.",
+      "trans": "我们备降是由于收到目的地机场冻雨报告。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/628.mp3"
+    },
+    {
+      "id": 702,
+      "content": "We are on emergency descent due severe icing.",
+      "trans": "由于严重结冰，我们紧急下降了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/340.mp3"
+    },
+    {
+      "id": 703,
+      "content": "We are encountering clear ice. Request immediate right turn to heading 130.",
+      "trans": "我们遇到了明冰。申请立即右转航向130。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/565.mp3"
+    },
+    {
+      "id": 704,
+      "content": "Rime ice was reported by previous aircraft during approach.",
+      "trans": "进近中前机报告有雾凇。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/424.mp3"
+    },
+    {
+      "id": 705,
+      "content": "We cannot continue holding in icing conditions. Request descent immediately and cancel speed restrictions.",
+      "trans": "我们不能在结冰条件下继续等待。请求立即下降并取消速度限制。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/659.mp3"
+    },
+    {
+      "id": 706,
+      "content": "We have a “Wind-shear Ahead” warning message. Request to delay takeoff or change to another runway.",
+      "trans": "我们出现了“前方风切变”警告信息。请求延迟起飞，或换一条跑道。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/713.mp3"
+    },
+    {
+      "id": 707,
+      "content": "We have a “Wind-shear Ahead” warning. Request to delay our approach.",
+      "trans": "我们出现了“前方风切变”警告。请求延迟进近。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/512.mp3"
+    },
+    {
+      "id": 708,
+      "content": "We made the go around due to wind-shear warning.",
+      "trans": "我们复飞的原因是有风切变警告。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/399.mp3"
+    },
+    {
+      "id": 709,
+      "content": "We have received information of a new volcanic eruption. Will it affect our route?",
+      "trans": "我们收到火山喷发的一条新信息，会影响我们航路吗？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/631.mp3"
+    },
+    {
+      "id": 710,
+      "content": "We are unsure of our position due heavy fog. We are holding position.",
+      "trans": "由于浓雾，我们不确定我们的位置。原地等待中。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/572.mp3"
+    },
+    {
+      "id": 711,
+      "content": "We had a rapid airspeed decay due turbulence. Request immediate descent to FL390.",
+      "trans": "我们的空速由于颠簸快速衰减。申请立即下降到高度390。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/598.mp3"
+    },
+    {
+      "id": 712,
+      "content": "We had to descend immediately due to wind-shear at our cruise level. We didn’t have time to request descent as the frequency was busy.",
+      "trans": "我们由于巡航高度层风切变的原因不得不立即下降，由于刚才频率繁忙，我们没有时间请示下降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/818.mp3"
+    },
+    {
+      "id": 713,
+      "content": "The airplane began to buffet when climbing through FL380. We had to stop climb immediately to increase airspeed.",
+      "trans": "刚才上升通过高度380时飞机开始抖振。我们必须立即停止爬升以增加空速。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/819.mp3"
+    },
+    {
+      "id": 714,
+      "content": "We are flying near our maximum altitude. We cannot maintain airspeed in this turbulence. Request immediate descent.",
+      "trans": "我们正接近我们的最大高度飞行。我们不能在颠簸中保持空速。申请立即下降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/820.mp3"
+    },
+    {
+      "id": 715,
+      "content": "I apologize for the level bust, but we needed the altitude loss to recover from wind-shear.",
+      "trans": "很抱歉偏离指定高度了，但我们需要损失高度来改出风切变。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/709.mp3"
+    },
+    {
+      "id": 716,
+      "content": "We encountered heavy rain and had a temporary flame out on our right engine. Request immediate climb.",
+      "trans": "我们遭遇了大雨，右发暂时熄火。申请立即上升。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/821.mp3"
+    },
+    {
+      "id": 717,
+      "content": "We won’t have to deviate if you allow us to climb to FL430.",
+      "trans": "如允许我们上升到高度430，我们就不用偏离。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/561.mp3"
+    },
+    {
+      "id": 718,
+      "content": "The thunderstorms will last for about 40 minutes according to the weather update. Request diversion.",
+      "trans": "根据天气更新情况，雷暴将持续约40分钟。申请备降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/657.mp3"
+    },
+    {
+      "id": 719,
+      "content": "We have encountered severe clear air turbulence. Request immediate descent.",
+      "trans": "我们已遇到严重晴空颠簸。申请立即下降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/487.mp3"
+    },
+    {
+      "id": 720,
+      "content": "Request a general heading of 050 due to multiple cells ahead.",
+      "trans": "由于前方多个单体雷雨区，申请大概050的航向。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/528.mp3"
+    },
+    {
+      "id": 721,
+      "content": "We have stopped on Runway 23 and will remain on the runway due heavy fog. I say again, we are still on the runway.",
+      "trans": "我们已停在23号跑道上，但由于浓雾我们仍在跑道上。我再说一遍，我们仍在跑道上。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/822.mp3"
+    },
+    {
+      "id": 722,
+      "content": "There is heavy drifting fog. We think it is no longer safe to taxi. Request to hold at present position.",
+      "trans": "有较大平流雾。我们认为滑行不安全。请求原地等待。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/823.mp3"
+    },
+    {
+      "id": 723,
+      "content": "Frontal weather is quickly moving in from the west. If the holding is more than 10 minutes, we will have to divert.",
+      "trans": "锋面天气很快由西移动过来。如果等待超过10分钟我们将备降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/824.mp3"
+    },
+    {
+      "id": 724,
+      "content": "We made the go-around because strong convective currents on short final made our approach unstable.",
+      "trans": "我们复飞的原因是因为短五边很强的对流气流使进近不稳定。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/699.mp3"
+    },
+    {
+      "id": 725,
+      "content": "There was temperature inversion when we descended through 3000 feet. Our airspeed dropped suddenly by 25 knots.",
+      "trans": "我们下降通过3000英尺时有逆温层。我们的空速突然掉了25节。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/825.mp3"
+    },
+    {
+      "id": 726,
+      "content": "We performed the missed approach below the minimum because of advection fog. We could no longer see the runway lights.",
+      "trans": "由于平流雾，我们执行了低于最低高度的复飞。我们不能够再看见跑道灯了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/826.mp3"
+    },
+    {
+      "id": 727,
+      "content": "The latest weather says that frontal weather and freezing rain is now stationary over the airport. Request diversion.",
+      "trans": "最新天气报说锋面天气和冻雨正在机场上空停留。申请备降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/827.mp3"
+    },
+    {
+      "id": 728,
+      "content": "We can’t find any gaps for at least 100 miles in the squall line covering our arrival route. Request diversion.",
+      "trans": "飑线覆盖我们进场航路，至少在100海里范围内我们都找不到任何空间穿越。申请备降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/828.mp3"
+    },
+    {
+      "id": 729,
+      "content": "We can see dust swirls approaching the airport and we’re concerned about low level wind-shear. Request holding.",
+      "trans": "我们能看见尘埃涡流接近机场，我们担心低空风切变。请求等待。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/829.mp3"
+    },
+    {
+      "id": 730,
+      "content": "The latest SIGMET says a super-cell thunderstorm is developing at our destination. Is our flight affected?",
+      "trans": "最新重要气象报表明超级单体雷暴正在我们目的地机场形成。我们的航班受影响吗？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/830.mp3"
+    },
+    {
+      "id": 731,
+      "content": "Request to continue our flight. Our ETA is in two hours and maybe the airport will have the runways cleared of snow by then.",
+      "trans": "请求继续飞行。我们的预达时刻是两小时后，可能机场会在那时将跑道上的雪除干净。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/831.mp3"
+    },
+    {
+      "id": 732,
+      "content": "We had to make a quick heading change due ice pellets. You didn’t answer our request so we squawked 7700 and made the heading change.",
+      "trans": "我们必须快速改变航向是因为冰丸。你没有回答我们的申请，因此我们设置应答机编码7700并改变了航向。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/832.mp3"
+    },
+    {
+      "id": 733,
+      "content": "We were struck by hail. Our airframe is severely damaged. Request emergency services.",
+      "trans": "我们被冰雹击中了。我们的机身严重受损。申请紧急服务。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/603.mp3"
+    },
+    {
+      "id": 734,
+      "content": "We have just encountered a lightning strike. Some of our instruments have erroneous indications. Request diversion to the nearest suitable airport.",
+      "trans": "我们刚遇到了雷击。一些仪表出现错误指示。申请备降到最近的合适机场。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/833.mp3"
+    },
+    {
+      "id": 735,
+      "content": "We have had a lightning strike. So far no system seems to be affected. We will continue to our destination.",
+      "trans": "我们已遭遇雷击。目前为止没有系统受到影响。我们将继续前往目的地。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/834.mp3"
+    },
+    {
+      "id": 736,
+      "content": "Roger heavy rain. Request to terminate our approach.",
+      "trans": "明白，大雨。申请终止进近。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/362.mp3"
+    },
+    {
+      "id": 737,
+      "content": "Request to cancel our approach. The runway is not long enough and there are water patches.",
+      "trans": "申请取消进近。跑道不够长，还有部分积水。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/708.mp3"
+    },
+    {
+      "id": 738,
+      "content": "Request to cancel our approach. Braking action is poor and we’re concerned about hydroplaning during rollout.",
+      "trans": "请求取消进近。刹车效应差，我们担心滑跑时出现滑水现象。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/835.mp3"
+    },
+    {
+      "id": 739,
+      "content": "Request holding instructions. We’ll attempt another approach when the rain showers become lighter.",
+      "trans": "申请等待指令。阵雨变小的时候我们再重新进近。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/613.mp3"
+    },
+    {
+      "id": 740,
+      "content": "We have received reports of freezing rain ranging from ground up to 5000 feet. Request diversion.",
+      "trans": "我们收到了冻雨报告，范围从地面到5000英尺。申请备降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/836.mp3"
+    },
+    {
+      "id": 741,
+      "content": "We have observed blowing sand in the vicinity of the airport. How long will this last?",
+      "trans": "我们已观察到在机场邻近地区有吹沙，持续多长时间呢？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/704.mp3"
+    },
+    {
+      "id": 742,
+      "content": "A sandstorm is forecast to reach the airport within 20 minutes. We won’t get airborne by then. Request cancel startup and tow back to the gate.",
+      "trans": "预计沙暴在20分钟内到达机场。到那时我们还没有升空。申请取消开车并拖飞机回停机位。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/837.mp3"
+    },
+    {
+      "id": 743,
+      "content": "Heavy blowing snow is expected to last for another 30 minutes. Request to terminate approach and holding instructions.",
+      "trans": "较大的吹雪预计持续30分钟。申请终止进近和等待指令。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/838.mp3"
+    },
+    {
+      "id": 744,
+      "content": "Runway is covered with patches of ice. Braking action is medium to poor.",
+      "trans": "跑道被大片结冰覆盖。刹车效应中等偏差。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/577.mp3"
+    },
+    {
+      "id": 745,
+      "content": "Ice patches are covering the runway mostly along the runway edge. Uncontaminated runway width is about 30 meters.",
+      "trans": "成片结冰覆盖跑道边缘大部分地方。未污染跑道的宽度约30米。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/839.mp3"
+    },
+    {
+      "id": 746,
+      "content": "A dissipating thunderstorm is ahead of us. We are near the zero-degree isotherm. Request deviate an additional 10 miles to the right.",
+      "trans": "消散的雷暴在我们前方。我们接近零度等温线。申请再向右偏离10海里。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/840.mp3"
+    },
+    {
+      "id": 747,
+      "content": "We have a visual on a tornado at our 10 o’clock, about 2 miles. Request immediate right turn.",
+      "trans": "我们在10点钟方位，约2海里的地方目视看见了龙卷风。请求立即右转。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/841.mp3"
+    },
+    {
+      "id": 748,
+      "content": "The weather forecast says that the typhoon along our route will be intensifying. Request change our airway clearance.",
+      "trans": "天气预报说台风沿我们航路将会增强。请求改变我们航路许可。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/842.mp3"
+    },
+    {
+      "id": 749,
+      "content": "The hurricane has gathered in strength and will affect all airports at the south coast. Request diversion.",
+      "trans": "飓风已大量聚集，而且将影响南海岸的全部机场，申请备降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/843.mp3"
+    },
+    {
+      "id": 750,
+      "content": "A Pilot overflying reported seeing virga above the runways. Request to terminate our approach.",
+      "trans": "飞越的一名飞行员报告在跑道上空看见了雨幡。申请终止进近。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/651.mp3"
+    },
+    {
+      "id": 751,
+      "content": "Request immediate one eighty turn to the right due volcanic ash.",
+      "trans": "由于火山灰，申请立即180度右转。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/501.mp3"
+    },
+    {
+      "id": 752,
+      "content": "We have entered volcanic ash. Our radios and engines are not working properly, now heading 235, and descending to FL 220, squawking 7700.",
+      "trans": "我们已经进入火山灰。我们的无线电和发动机都不能正常工作，现在航向235，下降到高度层220，应答机编码7700。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/844.mp3"
+    },
+    {
+      "id": 753,
+      "content": "We are landing into the sun in heavy haze. Can you turn on the approach lights to maximum intensity?",
+      "trans": "我们在严重霾中迎太阳着陆。能把进近灯调到最大强度吗？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/845.mp3"
+    },
+    {
+      "id": 754,
+      "content": "Lining up Runway 35. Runway lights are too bright. Request to dim the runway lights.",
+      "trans": "进跑道35。跑道灯太亮。申请调暗跑道灯。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/673.mp3"
+    },
+    {
+      "id": 755,
+      "content": "There are red lights ahead of us. Confirm taxi instructions.",
+      "trans": "我们前方有红色灯。证实滑行指令。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/461.mp3"
+    },
+    {
+      "id": 756,
+      "content": "There is an obstruction ahead. Confirm taxi instructions.",
+      "trans": "前方有障碍物。证实滑行指令。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/376.mp3"
+    },
+    {
+      "id": 757,
+      "content": "The NOTAM says this part of the taxiway is closed during this period, please verify.",
+      "trans": "航行通告说部分滑行道在这期间关闭。请核实。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/672.mp3"
+    },
+    {
+      "id": 758,
+      "content": "The follow-me vehicle is leading us to taxiway L3. Our wings will not clear the other airplanes on this narrow taxiway. We are stopping.",
+      "trans": "引导车正引导我们到滑行道L3。在这条较窄的滑行道上我们的机翼无法避开其他飞机。我们停止滑行了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/846.mp3"
+    },
+    {
+      "id": 759,
+      "content": "We are stopping. The ground marshaller is still guiding us in, but I think my engine will hit the boarding bridge if we taxi any further.",
+      "trans": "我们停止了。地面信号员仍引导我们滑入，但我认为如果我们再滑入，我们的发动机将碰到廊桥。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/847.mp3"
+    },
+    {
+      "id": 760,
+      "content": "We are stopping taxi. The boarding bridge is not at its designated position.",
+      "trans": "我们停止（滑行）了。廊桥不在指定位置。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/586.mp3"
+    },
+    {
+      "id": 761,
+      "content": "We are shutting down our engines. There are boxes blown by the wind toward our aircraft.",
+      "trans": "我们关车了。风朝我们飞机方向吹过来了一些盒子。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/848.mp3"
+    },
+    {
+      "id": 762,
+      "content": "We had difficulty starting up our engines due strong tailwind. Request to change our pushback position facing west.",
+      "trans": "由于强顺风，我们开启发动机有困难。请求改变推出位置，面朝西。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/849.mp3"
+    },
+    {
+      "id": 763,
+      "content": "Another aircraft has collided with us. I’ll command an evacuation as soon as we both turn off our engines.",
+      "trans": "另一架飞机与我们相撞。在我们双方都关车后，我将下指令尽快撤离。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/850.mp3"
+    },
+    {
+      "id": 764,
+      "content": "The tow bar has been bent. Our maintenance crew will inspect our nose wheel. Holding position.",
+      "trans": "拖杆弯曲了。我们的机务人员将检查前轮。原地等待。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/851.mp3"
+    },
+    {
+      "id": 765,
+      "content": "The tug has swung around and collided with our forward fuselage. We are shutting down engines. Request stairs vehicle and shuttle bus.",
+      "trans": "拖车偏转撞到飞机前机身。我们正在关车。申请客梯车和摆渡车。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/852.mp3"
+    },
+    {
+      "id": 766,
+      "content": "A catering truck collided with our aft fuselage. There are fumes in the cabin and we are quickly disembarking all passengers. Request fire services.",
+      "trans": "餐车撞到了我们的机后身。客舱有烟雾，我们正在快速让旅客下飞机，申请消防服务。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/853.mp3"
+    },
+    {
+      "id": 767,
+      "content": "The flaps were extended inadvertently and hit the fuel truck. We are disembarking all onboard personnel. Request fire services.",
+      "trans": "襟翼无意中被放出，碰到了油车。我们正撤离机上人员。申请消防服务。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/854.mp3"
+    },
+    {
+      "id": 768,
+      "content": "Our airplane nose has now lifted off the ground due to improper load and balance. Request ground maintenance.",
+      "trans": "由于不正确的配载和平衡，我们的飞机机头已经离地。申请地面维护。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/855.mp3"
+    },
+    {
+      "id": 769,
+      "content": "We have discovered leakage of dangerous goods in the cargo hold. Can you alert hazardous material specialists?",
+      "trans": "我们已发现货舱里的危险品泄漏。你们能通知危险品专家吗？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/856.mp3"
+    },
+    {
+      "id": 770,
+      "content": "Our cabin crew will direct all passengers to stay outside the runway after evacuation.",
+      "trans": "撤离后我们的客舱机组将指导所有旅客待在跑道外。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/641.mp3"
+    },
+    {
+      "id": 771,
+      "content": "The outer main landing gear might have rolled over runway lights when we made the one eighty turn. Request personnel to inspect.",
+      "trans": "我们做180度转弯时外主起落架可能擦到了跑道灯。请求人员进行检查。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/857.mp3"
+    },
+    {
+      "id": 772,
+      "content": "We have a suspicious bag on board. Request bomb squad.",
+      "trans": "机上有可疑的包。请求拆弹小组。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/451.mp3"
+    },
+    {
+      "id": 773,
+      "content": "The passengers are evacuating. The bomb is still on board.",
+      "trans": "旅客正在撤离。炸弹还在机上。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/455.mp3"
+    },
+    {
+      "id": 774,
+      "content": "A passenger has assembled a bomb in the lavatory. He is making threats. Request emergency services.",
+      "trans": "一名旅客在厕所已安装一枚炸弹。他正在威胁我们。申请紧急服务",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/858.mp3"
+    },
+    {
+      "id": 775,
+      "content": "Request a remote apron for parking our aircraft due bomb on board.",
+      "trans": "由于机上有炸弹，请求远机坪停机。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/532.mp3"
+    },
+    {
+      "id": 776,
+      "content": "We have had a tail strike. Request to stop climb at 3000 feet and return for landing.",
+      "trans": "我们已发生机尾擦地。请求3000英尺停止爬升并返场着陆。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/718.mp3"
+    },
+    {
+      "id": 777,
+      "content": "We have veered off the runway due asymmetric thrust. We are evacuating. Request emergency assistance.",
+      "trans": "由于不对称推力，我们在跑道上突然转向偏出了跑道，正在撤离。申请紧急救助。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/702.mp3"
+    },
+    {
+      "id": 778,
+      "content": "We cannot get good climb profile due engine problems. Request maintain runway heading.",
+      "trans": "由于发动机问题，我们不能得到很好的爬升剖面，申请保持跑道航向。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/606.mp3"
+    },
+    {
+      "id": 779,
+      "content": "We made a very hard landing. We’ll need maintenance inspection before our next flight. Suggest you check the runway touchdown zone.",
+      "trans": "我们重着陆了。下次飞行前我们需要机务检查。建议你们检查跑道接地区。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/859.mp3"
+    },
+    {
+      "id": 780,
+      "content": "The center of gravity is disturbed. We will relocate passengers prior to approach. Request holding.",
+      "trans": "重心被干扰了。进近前我们将重新安排旅客。申请等待。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/697.mp3"
+    },
+    {
+      "id": 781,
+      "content": "Request a large airspace to maneuver due flight control problems.",
+      "trans": "由于飞行操纵的问题，请求较大空域做机动。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/471.mp3"
+    },
+    {
+      "id": 782,
+      "content": "My apologies for the deviation due the wrong altitude setting. Request further instructions.",
+      "trans": "抱歉由于错误的高度设定而偏离，申请进一步指令。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/612.mp3"
+    },
+    {
+      "id": 783,
+      "content": "My apologies for the level deviation. We were caught in a strong updraft.",
+      "trans": "抱歉高度偏离了。我们遇到了强上升气流。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/579.mp3"
+    },
+    {
+      "id": 784,
+      "content": "We used too much speed brakes and penetrated our level. Did we cause any conflict?",
+      "trans": "我们使用过大量的减速板而穿越了我们的高度。我们引起冲突了吗？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/668.mp3"
+    },
+    {
+      "id": 785,
+      "content": "We were not informed of a frequency change. I will now monitor your frequency.",
+      "trans": "我们未得到频率改变的通知。我将现在监听你的频率。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/623.mp3"
+    },
+    {
+      "id": 786,
+      "content": "Unable visual approach due company policy. Request radar vectors.",
+      "trans": "公司政策原因不能目视进近。申请雷达引导。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/436.mp3"
+    },
+    {
+      "id": 787,
+      "content": "Unable circling approach due company policy. Request diversion.",
+      "trans": "公司政策原因不能盘旋进近。申请备降。 *Note：单词diversion有两种读音方式，一种是[dɪˈvɜːʃn]，另一种是[daɪˈvɜːʃn]。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/386.mp3"
+    },
+    {
+      "id": 788,
+      "content": "Are we being vectored too close to the parallel aircraft?",
+      "trans": "有架飞机在平行飞行，我们是不是被雷达引导得太近了？",
+      "audio": "https://resource.feizhiyi.com/fzy/uploads/exercise/other/20240624/20240624135141-6679096dee078.mp3"
+    },
+    {
+      "id": 789,
+      "content": "Is the preceding aircraft crossing our altitude?",
+      "trans": "前机正在穿越我们的高度吗？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/310.mp3"
+    },
+    {
+      "id": 790,
+      "content": "I can read you, but I’m not sure you can hear me. I will squawk ident to comply with your instructions.",
+      "trans": "我能听到你，但我不确定你能听到我。我将识别应答机以遵守指令。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/860.mp3"
+    },
+    {
+      "id": 791,
+      "content": "I see wildfire at my 10 o’clock, about 8 miles.",
+      "trans": "我在我10点钟方位，约8海里的地方看到了野火。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/490.mp3"
+    },
+    {
+      "id": 792,
+      "content": "I have heard an aircraft in distress but no one’s responding. I can help relay his message.",
+      "trans": "我听到有飞机遇险了但没有人回应。我能帮助转报信息。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/861.mp3"
+    },
+    {
+      "id": 793,
+      "content": "Message relay: The aircraft in distress will ditch in the ocean. His present coordinate is One Eight Degrees, One Five Minutes, North, One Six Zero Degrees, Five Two Minutes East.",
+      "trans": "转报：遇险飞机将海上迫降。目前的坐标是18度，15分钟，北，160度，52分钟，东。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20240407/6611fd3ae2c45.mp3"
+    },
+    {
+      "id": 794,
+      "content": "The aircraft in distress says he will attempt to force land in an area about ten miles Northeast of his position.",
+      "trans": "遇险飞机说他将尝试在其位置东北10海里的区域迫降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/863.mp3"
+    },
+    {
+      "id": 795,
+      "content": "Request offset 10 miles left to avoid the reported strong downdraft.",
+      "trans": "请求左偏离10海里避开已报告的强下沉气流。 *Note: 此处“10”可能读成“ten”.",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/513.mp3"
+    },
+    {
+      "id": 796,
+      "content": "Request diversion. The latest weather at our destination suggests snow storm will last for 5 hours.",
+      "trans": "申请备降。目的地机场最新天气表明雪暴将持续5小时。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/864.mp3"
+    },
+    {
+      "id": 797,
+      "content": "Our radar shows a strong echo from the thunderstorm ahead. Request an immediate right turn to avoid it.",
+      "trans": "雷达显示前方强雷暴回波。申请立即右转避让。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/865.mp3"
+    },
+    {
+      "id": 798,
+      "content": "Request immediate one-eighty turn to the right due to possible hail ahead.",
+      "trans": "由于前方可能有冰雹，申请立即右转180。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/546.mp3"
+    }
+  ]
+}

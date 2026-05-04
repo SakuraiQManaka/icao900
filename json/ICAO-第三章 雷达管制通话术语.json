@@ -1,0 +1,429 @@
+{
+  "meta": {
+    "quiz_name": "ICAO-第三章 雷达管制通话术语",
+    "export_time": "2026-05-01T15:38:31.882Z",
+    "total_questions": 70
+  },
+  "questions": [
+    {
+      "id": 223,
+      "content": "Continue present heading.",
+      "trans": "继续当前航向。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/44.mp3"
+    },
+    {
+      "id": 224,
+      "content": "Resume own navigation to BK.",
+      "trans": "恢复自主领航至BK。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/132.mp3"
+    },
+    {
+      "id": 225,
+      "content": "Confirm identification lost.",
+      "trans": "证实识别丢失。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/47.mp3"
+    },
+    {
+      "id": 226,
+      "content": "Identified, position 50 miles east of BK.",
+      "trans": "已识别，位置BK以东50海里。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/283.mp3"
+    },
+    {
+      "id": 227,
+      "content": "30 miles from touchdown, contact Approach 118.1.",
+      "trans": "离接地点30海里，联系进近118.1。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/312.mp3"
+    },
+    {
+      "id": 228,
+      "content": "Three sixty turn left.",
+      "trans": "左转360度",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/57.mp3"
+    },
+    {
+      "id": 229,
+      "content": "Orbit left for delay.",
+      "trans": "由于延误左转一圈。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/54.mp3"
+    },
+    {
+      "id": 230,
+      "content": "Looking out.",
+      "trans": "正在寻找。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/1.mp3"
+    },
+    {
+      "id": 231,
+      "content": "Traffic in sight.",
+      "trans": "看见了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/20.mp3"
+    },
+    {
+      "id": 232,
+      "content": "Negative contact due IMC.",
+      "trans": "由于仪表气象条件，看不见。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/61.mp3"
+    },
+    {
+      "id": 233,
+      "content": "Traffic passed and clear.",
+      "trans": "冲突飞机已通过无影响。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/62.mp3"
+    },
+    {
+      "id": 234,
+      "content": "Squawk 7563.",
+      "trans": "应答机7563。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/76.mp3"
+    },
+    {
+      "id": 235,
+      "content": "Reset squawk 5101.",
+      "trans": "重置应答机5101。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/80.mp3"
+    },
+    {
+      "id": 236,
+      "content": "Squawk ident.",
+      "trans": "应答机识别。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/4.mp3"
+    },
+    {
+      "id": 237,
+      "content": "Squawk standby.",
+      "trans": "应答机待命（待机）模式。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/7.mp3"
+    },
+    {
+      "id": 238,
+      "content": "Squawk Charlie and code 5120.",
+      "trans": "应答机C模式，编码5120。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/111.mp3"
+    },
+    {
+      "id": 239,
+      "content": "Stopping squawk Charlie.",
+      "trans": "关掉应答机C模式。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/40.mp3"
+    },
+    {
+      "id": 240,
+      "content": "Affirm squawk 7500.",
+      "trans": "可以设置应答机7500。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/81.mp3"
+    },
+    {
+      "id": 241,
+      "content": "Altimeter 1003 8000ft.",
+      "trans": "高度表1003，高度8000英尺。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/85.mp3"
+    },
+    {
+      "id": 242,
+      "content": "Negative squawk ident due transponder failure.",
+      "trans": "由于应答机失效，无法识别应答机。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/253.mp3"
+    },
+    {
+      "id": 243,
+      "content": "Turn right heading 340.",
+      "trans": "右转航向340。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/98.mp3"
+    },
+    {
+      "id": 244,
+      "content": "Turn right 20 degrees.",
+      "trans": "右转20度。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/93.mp3"
+    },
+    {
+      "id": 245,
+      "content": "Leave BK heading 190.",
+      "trans": "离开BK，航向190。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/91.mp3"
+    },
+    {
+      "id": 246,
+      "content": "Fly heading 285.",
+      "trans": "航向飞285。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/79.mp3"
+    },
+    {
+      "id": 247,
+      "content": "Stop turn heading 070.",
+      "trans": "停止转弯，航向070。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/94.mp3"
+    },
+    {
+      "id": 248,
+      "content": "Request heading 180 due weather.",
+      "trans": "由于天气，请求航向180。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/153.mp3"
+    },
+    {
+      "id": 249,
+      "content": "Confirm danger area 113 active.",
+      "trans": "证实危险区域113有活动。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/148.mp3"
+    },
+    {
+      "id": 250,
+      "content": "Your radar vector appears to be taking us to the prohibited area,confirm.",
+      "trans": "雷达引导好像把我们带入了禁飞区，证实。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/581.mp3"
+    },
+    {
+      "id": 251,
+      "content": "50 miles right of track approved, when able, proceed direct TB.",
+      "trans": "可以右偏离航迹50海里，如可能，直飞TB。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/499.mp3"
+    },
+    {
+      "id": 252,
+      "content": "Indicated speed 270 knots.",
+      "trans": "指示空速270节。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/107.mp3"
+    },
+    {
+      "id": 253,
+      "content": "Maintain 300 knots or less.",
+      "trans": "保持速度300节或更小。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/129.mp3"
+    },
+    {
+      "id": 254,
+      "content": "Maintain 180 knots until 8 miles from touchdown.",
+      "trans": "保持180节直到离接地点8海里。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/353.mp3"
+    },
+    {
+      "id": 255,
+      "content": "Maintain Mach decimal 82, transition speed 310 knots.",
+      "trans": "保持马赫数点82，转换速度310节。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/367.mp3"
+    },
+    {
+      "id": 256,
+      "content": "Maintain speed 280 knots or greater for separation.",
+      "trans": "由于间隔，保持速度280节或更大。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/360.mp3"
+    },
+    {
+      "id": 257,
+      "content": "Cross CK at 35 or later.",
+      "trans": "穿越CK台35分或之后。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/190.mp3"
+    },
+    {
+      "id": 258,
+      "content": "Cross DG at 24 or earlier.",
+      "trans": "24分或稍早时间穿越DG。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/193.mp3"
+    },
+    {
+      "id": 259,
+      "content": "Do not exceed 280 knots.",
+      "trans": "速度不要超过280节。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/120.mp3"
+    },
+    {
+      "id": 260,
+      "content": "Reduce speed to 240 knots.",
+      "trans": "减速到240节。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/124.mp3"
+    },
+    {
+      "id": 261,
+      "content": "Increase speed to 300 knots or greater.",
+      "trans": "增速到300节或更大。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/275.mp3"
+    },
+    {
+      "id": 262,
+      "content": "Increase speed by 10 knots.",
+      "trans": "速度增加10节。 Note：题干中的“10”有可能会读成“ten”",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/130.mp3"
+    },
+    {
+      "id": 263,
+      "content": "Resume normal speed.",
+      "trans": "恢复正常速度。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/29.mp3"
+    },
+    {
+      "id": 264,
+      "content": "No speed restrictions.",
+      "trans": "没有速度限制。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/35.mp3"
+    },
+    {
+      "id": 265,
+      "content": "Request speed 200 knots due configuration.",
+      "trans": "由于构型，请求速度200节。 Note：有的考点也会读成due to configuration。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/244.mp3"
+    },
+    {
+      "id": 266,
+      "content": "Request speed 250 knots due turbulence.",
+      "trans": "由于颠簸，请求速度250节。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/230.mp3"
+    },
+    {
+      "id": 267,
+      "content": "Omit position reports until LN.",
+      "trans": "LN前省略位置报。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/147.mp3"
+    },
+    {
+      "id": 268,
+      "content": "Next report at IP.",
+      "trans": "下一报告点IP。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/88.mp3"
+    },
+    {
+      "id": 269,
+      "content": "Report required only at boundary.",
+      "trans": "只要求在交接点报告。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/158.mp3"
+    },
+    {
+      "id": 270,
+      "content": "We have traffic at our 12 o’clock, 5 miles, 500 feet below, climbing.",
+      "trans": "我们看到了活动飞机，在12点钟方位，5海里，低于我们500英尺，正在上升。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/573.mp3"
+    },
+    {
+      "id": 271,
+      "content": "Traffic indication at our 1 o’clock, 4 miles, same altitude,converging.",
+      "trans": "活动飞机显示在1点钟方位，4海里，同高度，正在汇聚。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/520.mp3"
+    },
+    {
+      "id": 272,
+      "content": "Request vectors.",
+      "trans": "请求引导。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/10.mp3"
+    },
+    {
+      "id": 273,
+      "content": "Unable to receive transmission on that frequency.",
+      "trans": "那个频率收不到发报。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/313.mp3"
+    },
+    {
+      "id": 274,
+      "content": "Request 15 miles final.",
+      "trans": "请求五边15海里。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/97.mp3"
+    },
+    {
+      "id": 275,
+      "content": "Maintain 3000 feet until glide path interception.",
+      "trans": "保持3000英尺，直到截获下滑道。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/315.mp3"
+    },
+    {
+      "id": 276,
+      "content": "NOTAM says glide slope for Runway15 is unserviceable,confirm.",
+      "trans": "飞行员通告表明15号跑道下滑道故障，证实。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20200410/5e8fc6f521d1f.mp3"
+    },
+    {
+      "id": 277,
+      "content": "Confirm ILS frequency for Runway 17L.",
+      "trans": "证实17左跑道的盲降频率。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/218.mp3"
+    },
+    {
+      "id": 278,
+      "content": "In case of going around, turn left heading 210.",
+      "trans": "如复飞，左转航向210。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/349.mp3"
+    },
+    {
+      "id": 279,
+      "content": "Advise transponder capability.",
+      "trans": "请告知应答机可用模式。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/50.mp3"
+    },
+    {
+      "id": 280,
+      "content": "Transponder Charlie.",
+      "trans": "应答机C模式。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/16.mp3"
+    },
+    {
+      "id": 281,
+      "content": "Transponder unserviceable.",
+      "trans": "应答机故障。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/17.mp3"
+    },
+    {
+      "id": 282,
+      "content": "ADS-B transmitter 1090 (ten-ninety) data link.",
+      "trans": "ADS-B发射机1090数据链。",
+      "audio": "https://resource.feizhiyi.com/fzy/uploads/exercise/other/20240514/20240514111839-6642d80f28041.mp3"
+    },
+    {
+      "id": 283,
+      "content": "Negative ADS-B.",
+      "trans": "没有ADS-B。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/8.mp3"
+    },
+    {
+      "id": 284,
+      "content": "Re-enter ADS-B aircraft identification.",
+      "trans": "重新输入ADS-B飞机识别码。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/116.mp3"
+    },
+    {
+      "id": 285,
+      "content": "Stop ADS-B transmission.",
+      "trans": "停止ADS-B发射。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/41.mp3"
+    },
+    {
+      "id": 286,
+      "content": "Stop squawk transmit ADS-B only.",
+      "trans": "停止应答机只发报ADS-B。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/150.mp3"
+    },
+    {
+      "id": 287,
+      "content": "Fly no further west of your current position.",
+      "trans": "当前位置不要再往西飞了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/339.mp3"
+    },
+    {
+      "id": 288,
+      "content": "Unable identify the waypoint, request radar vectors.",
+      "trans": "不能识别此航路点，请求雷达引导。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/320.mp3"
+    },
+    {
+      "id": 289,
+      "content": "Right heading 120, my own terrain clearance.",
+      "trans": "右转航向120，自行避让地形。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/293.mp3"
+    },
+    {
+      "id": 290,
+      "content": "Heading 120, correction, 140.",
+      "trans": "航向120，更正一下，140。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/112.mp3"
+    },
+    {
+      "id": 291,
+      "content": "We are too low to the surrounding terrain. Confirm we are still being radar vectored.",
+      "trans": "我们高度太低，周围有地形。证实我们仍然被雷达引导。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/675.mp3"
+    },
+    {
+      "id": 292,
+      "content": "Confirm we are still above your minimum vectoring altitude.",
+      "trans": "证实我们仍然高于你们的最低引导高度。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/423.mp3"
+    }
+  ]
+}

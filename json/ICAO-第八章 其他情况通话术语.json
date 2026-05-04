@@ -1,0 +1,609 @@
+{
+  "meta": {
+    "quiz_name": "ICAO-第八章 其他情况通话术语",
+    "export_time": "2026-05-01T15:44:39.983Z",
+    "total_questions": 100
+  },
+  "questions": [
+    {
+      "id": 799,
+      "content": "We have three serious and five minor injuries on board. Request ambulances on arrival.",
+      "trans": "我们机上有三人重伤，五人轻伤。请求救护车到场。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/638.mp3"
+    },
+    {
+      "id": 800,
+      "content": "One passenger is having difficulty breathing. Request descent to a lower level to reduce cabin altitude.",
+      "trans": "一名旅客呼吸困难。请求立即下降到较低高度以减小客舱高度。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/717.mp3"
+    },
+    {
+      "id": 801,
+      "content": "A passenger activated the overhead emergency oxygen generator. Request airport security on arrival to detain this individual.",
+      "trans": "一名旅客触发了顶部紧急氧气发生器。请求机场保安到场拘留他。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/866.mp3"
+    },
+    {
+      "id": 802,
+      "content": "A stressed passenger attempted to open an emergency exit. Request airport security on arrival.",
+      "trans": "一名闹情绪的旅客试图打开应急出口。申请机场保安到场。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/652.mp3"
+    },
+    {
+      "id": 803,
+      "content": "We have a hostage situation. Request stair vehicles on standby to disembark the passengers.",
+      "trans": "我们有一名人质。申请客梯车待命以便让旅客们下飞机。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/647.mp3"
+    },
+    {
+      "id": 804,
+      "content": "We have a passenger with severe hyperventilation. He has received first aid but his condition is not improving. Request ambulance on arrival.",
+      "trans": "我们有一名旅客有严重的过度换气症。他得到了急救但情况没有好转。申请救护车到场。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/867.mp3"
+    },
+    {
+      "id": 805,
+      "content": "We have a passenger with a suspected heart attack. Request diversion to a suitable airport.",
+      "trans": "我们有名乘客疑似有心脏病。申请备降到合适机场。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/683.mp3"
+    },
+    {
+      "id": 806,
+      "content": "A pregnant passenger is in severe pain. Request priority landing and ambulance on arrival.",
+      "trans": "一名孕妇承受剧痛。申请优先着陆和救护车到场。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/644.mp3"
+    },
+    {
+      "id": 807,
+      "content": "There was a fight onboard among a few passengers. One of them is now bleeding seriously. Request police and ambulances on arrival.",
+      "trans": "几名旅客在机上打斗。其中一人现在流血严重。请求警察和救护车到场。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/868.mp3"
+    },
+    {
+      "id": 808,
+      "content": "The purser told me the injured passenger has blood type O. Maybe this information is useful to the paramedics.",
+      "trans": "乘务长告知我受伤旅客血型是O型血。或许该信息对急救医务人员有用。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/869.mp3"
+    },
+    {
+      "id": 809,
+      "content": "We have an 8-month old infant with head injuries. Request ambulance on arrival.",
+      "trans": "我们有个8个月大的婴儿头部受伤。申请救护车到场。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/627.mp3"
+    },
+    {
+      "id": 810,
+      "content": "A passenger is unconscious after suffering from seizure. The cabin crew is giving her first aid. We will advise if we require a diversion.",
+      "trans": "一名旅客癫痫发作后失去知觉。客舱机组提供急救。如需备降我们将告知你们。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/870.mp3"
+    },
+    {
+      "id": 811,
+      "content": "Many passengers and crew were injured due severe turbulence. We will advise the number and severity of injuries when able.",
+      "trans": "由于严重颠簸，多名旅客和机组都受伤了。如能够，我们将告知受伤人数和严重性。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/871.mp3"
+    },
+    {
+      "id": 812,
+      "content": "An elderly passenger has passed away. We will continue to our destination. Request ambulance on arrival.",
+      "trans": "一位年长的旅客去世了。我们将继续到目的地。请求救护车到场。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/872.mp3"
+    },
+    {
+      "id": 813,
+      "content": "We found a passenger unconscious from a drug overdose in the lavatory. Request police and ambulance on arrival.",
+      "trans": "我们发现一名旅客在洗手间服药（或毒品）过量失去意识了。请求警察和救护车到场。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/873.mp3"
+    },
+    {
+      "id": 814,
+      "content": "The sick passenger’s condition has improved. We no longer require the diversion. Request to continue to our destination.",
+      "trans": "生病旅客的情况已经好转了。我们不再要求备降，请求继续飞往我们的目的地。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/874.mp3"
+    },
+    {
+      "id": 815,
+      "content": "We received an emergency call from the cabin, but now nobody is responding. We can hear shouting and disturbance. Our cabin crew might be under duress.",
+      "trans": "我们收到客舱的急救呼叫，但现在没人回应。我们能听见喊叫声和斗殴声。我们的客舱机组可能受到了胁迫。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/875.mp3"
+    },
+    {
+      "id": 816,
+      "content": "We have a hijack situation on board. Can our destination airport provide armed intervention?",
+      "trans": "我们被劫机了。我们的目的地机场能提供武装干涉吗？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/648.mp3"
+    },
+    {
+      "id": 817,
+      "content": "We can see two masked men with sharp weapons on our cockpit door surveillance camera. They are kicking the cockpit door.",
+      "trans": "我们通过驾驶舱监控摄像机看见两个头戴面具手拿利器的人。他们正在踢驾驶舱门。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/876.mp3"
+    },
+    {
+      "id": 818,
+      "content": "I can see the area outside of the cockpit. There are two hijack suspects standing in the aisle.",
+      "trans": "我能看见驾驶舱外面区域。有两名劫机者正站在过道。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/877.mp3"
+    },
+    {
+      "id": 819,
+      "content": "One of the terrorists is about forty years old. He is about 180 cm tall, wearing a brown shirt and dark pants.",
+      "trans": "一名恐怖分子大约40岁。他有180厘米高，穿着棕色衬衫和深色裤子。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/878.mp3"
+    },
+    {
+      "id": 820,
+      "content": "A terrorist is trying to access the cockpit. He is about 30 years old. He is wearing a hat and backpack.",
+      "trans": "一名恐怖分子正试图接近驾驶舱。他约30岁。戴一顶帽子并双肩背包。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/879.mp3"
+    },
+    {
+      "id": 821,
+      "content": "The purser reports there are over ten hijackers onboard. They are threatening to kill passengers if we don’t fly to another destination.",
+      "trans": "乘务长报告机上有超过10名劫机犯。正威胁我们如果不飞往另一个目的地，他们要杀死旅客。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/880.mp3"
+    },
+    {
+      "id": 822,
+      "content": "Some of the hijackers are carrying sharp protruding weapons.",
+      "trans": "一些劫机犯拿着锋利的、尖锐的武器。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/425.mp3"
+    },
+    {
+      "id": 823,
+      "content": "There is a stand-off in the cabin. Some of the hijackers are carrying blades.",
+      "trans": "客舱已陷于僵持状态。一些劫机犯拿着刀片。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/622.mp3"
+    },
+    {
+      "id": 824,
+      "content": "Terrorists started to injure passengers.",
+      "trans": "恐怖分子开始伤害旅客了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20211021/61710a6030efb.mp3"
+    },
+    {
+      "id": 825,
+      "content": "We will remain on the runway. The hijackers have taken four hostages to the rear of the cabin.",
+      "trans": "我们将停留在跑道上。劫机犯已把四名人质带到了客舱后部。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/881.mp3"
+    },
+    {
+      "id": 826,
+      "content": "Terrorists are threatening to start killing passengers and the crew.",
+      "trans": "恐怖分子们威胁他们将要杀死旅客和机组了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/476.mp3"
+    },
+    {
+      "id": 827,
+      "content": "The air marshal and passengers have restrained five suspects. The situation is now under control.",
+      "trans": "安全保安和旅客们已经制服了五名疑犯。局面得到了控制。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/695.mp3"
+    },
+    {
+      "id": 828,
+      "content": "A suspicious suitcase was found during the cabin inspection.",
+      "trans": "客舱检查中发现了可疑手提箱。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20211115/6191ae630d8cb.mp3"
+    },
+    {
+      "id": 829,
+      "content": "The air marshal is searching the aircraft interior for any suspicious articles.",
+      "trans": "空中保安正在搜查飞机里面的任何可疑物品。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/552.mp3"
+    },
+    {
+      "id": 830,
+      "content": "Some explosives were discovered behind a panel near the back of the cabin.",
+      "trans": "客舱后部的一块面板后面发现一些爆炸物。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/582.mp3"
+    },
+    {
+      "id": 831,
+      "content": "What do the bomb-disposal experts suggest we do?",
+      "trans": "拆弹专家们建议我们做什么？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/351.mp3"
+    },
+    {
+      "id": 832,
+      "content": "The cabin crew reports a passenger is behaving strangely.",
+      "trans": "客舱机组报告一名旅客行为怪异。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/419.mp3"
+    },
+    {
+      "id": 833,
+      "content": "A bomb has exploded and the cabin is full of smoke. Request emergency descent.",
+      "trans": "炸弹已爆炸，客舱到处是烟雾。申请紧急下降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20230909/64fc2e5d9a2e6.mp3"
+    },
+    {
+      "id": 834,
+      "content": "We are evacuating on the runway. Be advised the bomb is still on board.",
+      "trans": "我们正在跑道上紧急撤离。请你告知相关人员炸弹还在飞机上。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/616.mp3"
+    },
+    {
+      "id": 835,
+      "content": "We are unsure of our position due to navigation failure. If any station can hear me, please respond.",
+      "trans": "由于导航失效，我们不确定位置。如有任何电台能听到我们，请回话。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/882.mp3"
+    },
+    {
+      "id": 836,
+      "content": "We only have standby magnetic compass due instrument failure. Now heading 245. Request navigation assistance.",
+      "trans": "我们因仪表失效只有备用磁罗盘。现在航向245。请求导航援助。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/883.mp3"
+    },
+    {
+      "id": 837,
+      "content": "We are unsure of our position due FMS failure. Last known position five miles north of FUPAD, now heading 165 for weather avoidance.",
+      "trans": "我们由于飞行管理计算机失效不能确定位置。最后已知位置FUPAD以北5海里，现在航向165以避开天气。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/884.mp3"
+    },
+    {
+      "id": 838,
+      "content": "We have navigation map drift. Request climb to MEA.",
+      "trans": "我们有导航地图漂移。申请上升到最低航路高度。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20200609/5edee9c7b33fc.mp3"
+    },
+    {
+      "id": 839,
+      "content": "Our cargo manifest shows that there are 80 kilograms of lithium batteries on board.",
+      "trans": "我们货物舱单表明机上有80千克的锂电池。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/670.mp3"
+    },
+    {
+      "id": 840,
+      "content": "A ramp inspection discovered crates of lithium batteries in the cargo hold. We are verifying. Request delay pushback.",
+      "trans": "机坪检查发现货舱有数箱锂电池。我们正在核实。请求延迟推出。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/885.mp3"
+    },
+    {
+      "id": 841,
+      "content": "We had a smoke warning in the cargo hold. We have discharged the fire extinguisher. We are concerned about lithium batteries in that compartment.",
+      "trans": "我们的货舱有烟雾警告。我们已释放灭火瓶。我们担心货舱的锂电池。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/886.mp3"
+    },
+    {
+      "id": 842,
+      "content": "The cabin crew have used up all the portable extinguishers. Request diversion.",
+      "trans": "客舱机组已用完了手提式灭火器，申请备降。 *Note：单词diversion有两种读音方式，一种是[dɪˈvɜːʃn]，另一种是[daɪˈvɜːʃn]。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/551.mp3"
+    },
+    {
+      "id": 843,
+      "content": "Request passenger stairs connect immediately after we stop on the runway. We want to disembark passengers as quickly as possible.",
+      "trans": "我们停在跑道上后请求立即连接客梯车。我们想尽快让旅客离机。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/887.mp3"
+    },
+    {
+      "id": 844,
+      "content": "We almost had a mid-air collision with another aircraft.",
+      "trans": "我们差点与另一架飞机空中相撞。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/417.mp3"
+    },
+    {
+      "id": 845,
+      "content": "The conflicting traffic is military. Request avoiding action.",
+      "trans": "冲突飞机是军用机。申请避让措施。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/381.mp3"
+    },
+    {
+      "id": 846,
+      "content": "Does the flight path of the unknown aircraft converge with ours?",
+      "trans": "不明飞机的飞行路线和我们会聚吗？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/502.mp3"
+    },
+    {
+      "id": 847,
+      "content": "The conflicting traffic is gray, possibly a military aircraft.",
+      "trans": "冲突飞机是灰色的，可能是军用机。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/433.mp3"
+    },
+    {
+      "id": 848,
+      "content": "We have traffic indication at 2 o’clock, 300 feet above our level.",
+      "trans": "冲突飞机显示在2点钟方位，高于我们300英尺。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/507.mp3"
+    },
+    {
+      "id": 849,
+      "content": "We have a possible traffic conflict at 10 o’clock, converging with our flight path.",
+      "trans": "我们可能在10点钟方位有冲突飞机，与我们的飞行线路会聚。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/671.mp3"
+    },
+    {
+      "id": 850,
+      "content": "We have a possible traffic conflict ahead. Request radar vectors for avoidance.",
+      "trans": "我们前方可能有冲突飞机，请求雷达引导避让。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/553.mp3"
+    },
+    {
+      "id": 851,
+      "content": "Request right turn for traffic avoidance.",
+      "trans": "请求右转避让冲突飞机。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/236.mp3"
+    },
+    {
+      "id": 852,
+      "content": "Unable to comply, TCAS RA.",
+      "trans": "不能照办，遵守TCASRA指令。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/122.mp3"
+    },
+    {
+      "id": 853,
+      "content": "We nearly collided with that aircraft. We had very little vertical separation. Do you know the flight number of that aircraft?",
+      "trans": "我们几乎与那架飞机相撞了。我们几乎没有垂直间隔了。你们知道那架飞机的航班号吗？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/888.mp3"
+    },
+    {
+      "id": 854,
+      "content": "Clear of conflict, request further instructions.",
+      "trans": "远离冲突，申请进一步指令。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/256.mp3"
+    },
+    {
+      "id": 855,
+      "content": "We have injuries resulting from our TCAS maneuver. Request ambulance on arrival.",
+      "trans": "TCAS机动导致部分旅客受伤。请求救护车到场。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/557.mp3"
+    },
+    {
+      "id": 856,
+      "content": "Some of the cabin crew are injured. They were serving meals during the TCAS maneuver.",
+      "trans": "部分客舱机组受伤了。TCAS机动时他们正在供餐。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/676.mp3"
+    },
+    {
+      "id": 857,
+      "content": "Some passengers were injured because their seatbelts weren’t fastened.",
+      "trans": "一些旅客受伤是因为他们没有系安全带。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/445.mp3"
+    },
+    {
+      "id": 858,
+      "content": "Some passengers have been scalded by hot drinks.",
+      "trans": "一些旅客被热饮料烫伤了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/352.mp3"
+    },
+    {
+      "id": 859,
+      "content": "We have about thirty injured persons on board, four are very serious. Can you deliver this message to the medical staff that are standing by?",
+      "trans": "我们机上有三十人受伤。其中四人受伤严重。你能把此信息告知待命的医疗人员吗？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/889.mp3"
+    },
+    {
+      "id": 860,
+      "content": "We overran the runway end. We are evacuating. Request emergency services.",
+      "trans": "我们冲出了跑道头。我们正在撤离。请求紧急服务。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/523.mp3"
+    },
+    {
+      "id": 861,
+      "content": "We veered off the runway. We are evacuating near the runway and rapid exit J5.",
+      "trans": "我们偏出了跑道，正在撤离。我们的位置在跑道和快速脱离道口J5附近。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/665.mp3"
+    },
+    {
+      "id": 862,
+      "content": "We will reach our minimum fuel if we are delayed any further.",
+      "trans": "如果我们进一步延误，我们将达到最低燃油量。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/529.mp3"
+    },
+    {
+      "id": 863,
+      "content": "We are declaring minimum fuel. We will have less than 30 minutes endurance by the time we get to our destination.",
+      "trans": "我们宣布最低燃油量。我们到达目的地之后会有少于30分钟续航时间。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/890.mp3"
+    },
+    {
+      "id": 864,
+      "content": "We are declaring fuel emergency. Our endurance is 1 hour 58 minutes. We are 1 hour 30 minutes from the closest alternate airport.",
+      "trans": "我们宣布燃油紧急状况。我们的续航时间1小时58分钟。我们离最近备降场时间是1小时30分钟。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/891.mp3"
+    },
+    {
+      "id": 865,
+      "content": "We are declaring fuel emergency. Request priority landing Runway 03R.",
+      "trans": "我们宣布燃油紧急状况。申请优先着陆，跑道03右。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/535.mp3"
+    },
+    {
+      "id": 866,
+      "content": "We have been intercepted by a military aircraft. It is rocking its wings to indicate we should follow.",
+      "trans": "我们被一架军用飞机拦截了。它摇动机翼让我们跟着它。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/892.mp3"
+    },
+    {
+      "id": 867,
+      "content": "I’m trying to identify the type and nationality of the military aircraft. So far, no response on 121.5.",
+      "trans": "我们正试着识别军用飞机的机型和国籍。到目前为止，121.5频率没有回应。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/893.mp3"
+    },
+    {
+      "id": 868,
+      "content": "The military aircraft is commanding us to land at the airfield below.",
+      "trans": "军用飞机正在指示我们在下面的机场着陆。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/536.mp3"
+    },
+    {
+      "id": 869,
+      "content": "The military aircraft has made an abrupt maneuver indicating we may continue on this heading.",
+      "trans": "军用飞机已突然机动，表明我们可以继续保持此航向。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/689.mp3"
+    },
+    {
+      "id": 870,
+      "content": "We are being escorted towards the national boundary by two military aircraft.",
+      "trans": "我们正在被两架军用机押送到国境线。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/549.mp3"
+    },
+    {
+      "id": 871,
+      "content": "We are heading 085. This heading allows us to quickly exit the prohibited airspace.",
+      "trans": "我们现在航向085。该航向我们可以快速离开禁飞空域。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/894.mp3"
+    },
+    {
+      "id": 872,
+      "content": "If we continue to make orbits we will exceed our duty time limit by the time we land.",
+      "trans": "如我们继续转圈，我们将在落地时超出值勤期限制。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/895.mp3"
+    },
+    {
+      "id": 873,
+      "content": "A crew member is incapacitated. Request diversion and medical assistance.",
+      "trans": "一名机组成员失能。请求备降和医疗救助。 *Note：单词diversion有两种读音方式，一种是[dɪˈvɜːʃn]，另一种是[daɪˈvɜːʃn]。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/484.mp3"
+    },
+    {
+      "id": 874,
+      "content": "They have revived the unconscious passenger by CPR procedure. It looks like he’ll be fine. Request to cancel the diversion.",
+      "trans": "他们通过心肺复苏程序使失去知觉的旅客恢复了意识。似乎情况不错。申请取消备降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/896.mp3"
+    },
+    {
+      "id": 875,
+      "content": "Confirm we are being vectored to fly overhead the airport for right downwind.",
+      "trans": "证实你会引导我们飞越机场上空然后做右三边。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/590.mp3"
+    },
+    {
+      "id": 876,
+      "content": "Confirm we have enough separation from preceding aircraft.",
+      "trans": "证实我们与前机有足够间隔。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/378.mp3"
+    },
+    {
+      "id": 877,
+      "content": "Unable to expedite climb due performance.",
+      "trans": "由于性能，不能加速爬升。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/237.mp3"
+    },
+    {
+      "id": 878,
+      "content": "Negative contact due visibility.",
+      "trans": "由于能见度，不能看见（那一架飞机）。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/71.mp3"
+    },
+    {
+      "id": 879,
+      "content": "Unable, we are in IMC.",
+      "trans": "不能，我们在仪表天气条件。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/117.mp3"
+    },
+    {
+      "id": 880,
+      "content": "Unable, we are only authorized during daytime VMC.",
+      "trans": "不能，我们只有白天目视气象条件的资格。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/359.mp3"
+    },
+    {
+      "id": 881,
+      "content": "Unable noise abatement due company policy.",
+      "trans": "由于公司政策，不能执行降噪音程序。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/242.mp3"
+    },
+    {
+      "id": 882,
+      "content": "Did the previous controller tell you about our problem during radar handoff?",
+      "trans": "雷达移交时前面的管制员告诉你我们的问题了吗？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/547.mp3"
+    },
+    {
+      "id": 883,
+      "content": "Is there a frequency change at this compulsory reporting point?",
+      "trans": "在此强制性报告点需要换频率吗？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/468.mp3"
+    },
+    {
+      "id": 884,
+      "content": "Unable speed 180 knots. We need to maintain a good speed in clean configuration due icing.",
+      "trans": "不能保持速度180节。由于积冰，我们需要保持光洁形态和适当的速度。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/897.mp3"
+    },
+    {
+      "id": 885,
+      "content": "Unable to reduce speed below mach decimal 74. You can vector us if you’d like.",
+      "trans": "速度不能调至低于马赫数点74。你可以引导让我们飞航向。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/898.mp3"
+    },
+    {
+      "id": 886,
+      "content": "Request runway change for departure due high crosswind.",
+      "trans": "由于较大侧风，请求换起飞跑道。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/373.mp3"
+    },
+    {
+      "id": 887,
+      "content": "Request delay the approach due tail wind beyond limits.",
+      "trans": "由于顺风超限，请求延迟进近。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/414.mp3"
+    },
+    {
+      "id": 888,
+      "content": "Request holding instructions due weather near the runway threshold.",
+      "trans": "由于跑道入口处附近的天气，请求等待指令。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/440.mp3"
+    },
+    {
+      "id": 889,
+      "content": "Unable, an immediate right turn might not give us enough terrain clearance. Our turn radius is 4 miles at this speed.",
+      "trans": "不能，立即右转的话我们越过地形的裕度可能不够。当前速度的转弯半径是4海里。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/899.mp3"
+    },
+    {
+      "id": 890,
+      "content": "Sorry, there was a problem with my audio equipment. How do you read me now?",
+      "trans": "抱歉，因为我们的音频设备有问题。现在你听我几个？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/661.mp3"
+    },
+    {
+      "id": 891,
+      "content": "We had to overshoot because of wake turbulence.",
+      "trans": "我们不得不复飞的原因是尾流。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/347.mp3"
+    },
+    {
+      "id": 892,
+      "content": "Not ready for immediate takeoff due possible wake turbulence from departing heavy aircraft.",
+      "trans": "没有准备好立即起飞，刚起飞的重型机可能有尾流。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/611.mp3"
+    },
+    {
+      "id": 893,
+      "content": "Unable CAT II approach due crew qualification.",
+      "trans": "不能Ⅱ类进近的原因是机组资质。 Note: CAT读为Catgory。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/302.mp3"
+    },
+    {
+      "id": 894,
+      "content": "Transmission blocked, say again.",
+      "trans": "被干扰了，再说一遍。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/151.mp3"
+    },
+    {
+      "id": 895,
+      "content": "Standby, high pilot workload.",
+      "trans": "稍等，飞行员工作负荷较大。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/137.mp3"
+    },
+    {
+      "id": 896,
+      "content": "Are you banning us from entry because of our airline or our aircraft type?",
+      "trans": "你禁止我们飞入是因为我们公司或我们的机型吗？",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/619.mp3"
+    },
+    {
+      "id": 897,
+      "content": "Our aircraft has the required certification and is approved by your Civil Aviation Authority for scheduled flight.",
+      "trans": "我们飞机有相应的资质，你们民航当局也批准我们可以执行定期航班。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/900.mp3"
+    },
+    {
+      "id": 898,
+      "content": "We had to go around due to unstable approach.",
+      "trans": "我们必须复飞是因为进近不稳定。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20220315/62303d3fdfc24.mp3"
+    }
+  ]
+}

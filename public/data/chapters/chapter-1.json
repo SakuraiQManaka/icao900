@@ -1,0 +1,519 @@
+{
+  "meta": {
+    "quiz_name": "icao-1",
+    "export_time": "2026-05-01T15:27:11.179Z",
+    "total_questions": 85
+  },
+  "questions": [
+    {
+      "id": 1,
+      "content": "Maintaining FL310.",
+      "trans": "保持高度310",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20180622/5b2c957e01c8e.mp3"
+    },
+    {
+      "id": 2,
+      "content": "Descending to FL290.",
+      "trans": "下降到高度290。",
+      "audio": "https://resource.feizhiyi.com/fzy/uploads/exercise/other/20240415/20240415103618-661c92a2d0a29.mp3"
+    },
+    {
+      "id": 3,
+      "content": "Reaching FL190.",
+      "trans": "到达高度190。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/78.mp3"
+    },
+    {
+      "id": 4,
+      "content": "Maintaining FL90 over WXJ.",
+      "trans": "过WXJ时保持高度层90。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/105.mp3"
+    },
+    {
+      "id": 5,
+      "content": "Continue descent to 3000 feet，QNH 1012.",
+      "trans": "继续下降到3000英尺，修正海压1012。",
+      "audio": "https://resource.feizhiyi.com/fzy/uploads/exercise/other/20240418/20240418134711-6620b3dfc1641.mp3"
+    },
+    {
+      "id": 6,
+      "content": "Passing FL180 for FL310.",
+      "trans": "通过高度180，继续上升到高度310。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/99.mp3"
+    },
+    {
+      "id": 7,
+      "content": "Cleared to enter controlled airspace not above FL100.",
+      "trans": "可以进入管制空域，但不高于高度层100。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/364.mp3"
+    },
+    {
+      "id": 8,
+      "content": "Request further climb.",
+      "trans": "请求进一步上升。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/32.mp3"
+    },
+    {
+      "id": 9,
+      "content": "Fly direct to SHA, not below FL180.",
+      "trans": "直飞SHA，高度不低于180。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/265.mp3"
+    },
+    {
+      "id": 10,
+      "content": "After passing CGO descend to FL80.",
+      "trans": "过CGO后下降到高度层80。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/211.mp3"
+    },
+    {
+      "id": 11,
+      "content": "Stop descent at FL210.",
+      "trans": "高度210时停止下降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/96.mp3"
+    },
+    {
+      "id": 12,
+      "content": "Descending to reach FL150 by WXI.",
+      "trans": "到WXI前下降到高度层150。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/208.mp3"
+    },
+    {
+      "id": 13,
+      "content": "Unable to reach FL150 by ZHO due performance.",
+      "trans": "由于性能原因到ZHO之前不能到达高度层150。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/342.mp3"
+    },
+    {
+      "id": 14,
+      "content": "Climbing to FL290, to be level by 55.",
+      "trans": "上升到高度层290，55分前改平飞。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/331.mp3"
+    },
+    {
+      "id": 15,
+      "content": "Descend at 2000 feet per minute.",
+      "trans": "以每分钟2000英尺的下降率下降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/202.mp3"
+    },
+    {
+      "id": 16,
+      "content": "Climbing at 1000 feet per minute or greater.",
+      "trans": "继续以1000英尺每分钟或更大的上升率上升。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20230925/6510fb798bcbf.mp3"
+    },
+    {
+      "id": 17,
+      "content": "When ready, descend to FL210, level at PLT.",
+      "trans": "准备好时下降到高度层210，在PLT改平。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/335.mp3"
+    },
+    {
+      "id": 18,
+      "content": "Right heading 330, descending to 3000 feet, cleared for ILS approach Runway 36R.",
+      "trans": "右转航向330，下降到3000英尺，可以盲降进近，跑道36右。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/567.mp3"
+    },
+    {
+      "id": 19,
+      "content": "Descend to 3000 feet, information P is current.",
+      "trans": "下降到3000英尺，最新通播P。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/348.mp3"
+    },
+    {
+      "id": 20,
+      "content": "Expedite descent to FL180.",
+      "trans": "加速下降到高度180。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/108.mp3"
+    },
+    {
+      "id": 21,
+      "content": "Expedite climb to FL190.",
+      "trans": "加速上升到高度190。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/102.mp3"
+    },
+    {
+      "id": 22,
+      "content": "Climb to FL280 expedite until passing FL180.",
+      "trans": "上升到高度280，快速通过高度180。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/295.mp3"
+    },
+    {
+      "id": 23,
+      "content": "Unable to expedite climb due weight.",
+      "trans": "由于重量原因不能加速上升。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/215.mp3"
+    },
+    {
+      "id": 24,
+      "content": "Descending immediately to FL200 due traffic.",
+      "trans": "由于冲突飞机立即下降到高度200。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/249.mp3"
+    },
+    {
+      "id": 25,
+      "content": "When ready, climb to FL280, report leaving FL200.",
+      "trans": "准备好时上升到高度280，离开高度层200时报告。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/358.mp3"
+    },
+    {
+      "id": 26,
+      "content": "Leaving FL200, climbing to FL280.",
+      "trans": "离开高度200，继续上升到高度280。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/162.mp3"
+    },
+    {
+      "id": 27,
+      "content": "Maintaining own separation and VMC, descending to FL80.",
+      "trans": "保持好自己的间隔和目视气象条件，下降到高度80。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/325.mp3"
+    },
+    {
+      "id": 28,
+      "content": "Reaching 8000 feet, request further climb.",
+      "trans": "到达8000英尺，请求进一步上升。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/243.mp3"
+    },
+    {
+      "id": 29,
+      "content": "Cancel SID, track direct to LLK, climb to and maintain FL110.",
+      "trans": "取消标准仪表离场，按航迹直飞LLK，上升并保持高度110。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/498.mp3"
+    },
+    {
+      "id": 30,
+      "content": "Experiencing icing condition. Request further descent.",
+      "trans": "遇到结冰条件。请求进一步下降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/259.mp3"
+    },
+    {
+      "id": 31,
+      "content": "Icing condition encountered. Request further climb.",
+      "trans": "遭遇结冰条件。请求进一步上升。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/258.mp3"
+    },
+    {
+      "id": 32,
+      "content": "Experiencing severe turbulence. Request further descent.",
+      "trans": "遇到严重颠簸。请求进一步下降。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/260.mp3"
+    },
+    {
+      "id": 33,
+      "content": "Reduce speed to Mach decimal 76.",
+      "trans": "减速到马赫数点76。 Note：有的考点也会读成point 76.",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/203.mp3"
+    },
+    {
+      "id": 34,
+      "content": "Maintain Mach point 84 or greater.",
+      "trans": "保持马赫数点84或更大。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/210.mp3"
+    },
+    {
+      "id": 35,
+      "content": "Maintain Mach point 80 or less.",
+      "trans": "保持马赫数点80或更小。 Note：有点考点也会读成decimal 80.",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/200.mp3"
+    },
+    {
+      "id": 36,
+      "content": "Maintain present speed.",
+      "trans": "保持当前速度。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/38.mp3"
+    },
+    {
+      "id": 37,
+      "content": "Maintain 250 knots or greater.",
+      "trans": "保持或大于250节。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/143.mp3"
+    },
+    {
+      "id": 38,
+      "content": "Reduce to minimum clean speed.",
+      "trans": "减小到最小净形（光洁）速度。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/140.mp3"
+    },
+    {
+      "id": 39,
+      "content": "Reduce to minimum approach speed.",
+      "trans": "降低到最小进近速度。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/157.mp3"
+    },
+    {
+      "id": 40,
+      "content": "Maintain 160 knots until 4 miles final.",
+      "trans": "保持160节直到五边4海里。 *Note: 此处“160”可能读成“one hundred and sixty”.",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/276.mp3"
+    },
+    {
+      "id": 41,
+      "content": "Maintain 160 knots until outer marker.",
+      "trans": "保持160节直到外指点标。 *Note: 此处“160”可能读成“one hundred and sixty”.",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20231031/65409523d4323.mp3"
+    },
+    {
+      "id": 42,
+      "content": "Descend to FL120, on speed conversion, 250 knots.",
+      "trans": "下降到高度120，低高度时速度转换至250节。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/357.mp3"
+    },
+    {
+      "id": 43,
+      "content": "Cancel speed restriction, continue descent to 7000 feet.",
+      "trans": "取消速度限制，继续下降到7000英尺。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/374.mp3"
+    },
+    {
+      "id": 44,
+      "content": "LMN-02 Departure, passing 2500 feet climbing to 9000 feet.",
+      "trans": "LMN-02号离场，通过2500英尺，继续上升到9000英尺。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/379.mp3"
+    },
+    {
+      "id": 45,
+      "content": "Maintaining FL350, cleared to destination, flight planned route.",
+      "trans": "保持高度350，可以飞往目的地机场，按照计划的飞行航路。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/387.mp3"
+    },
+    {
+      "id": 46,
+      "content": "Request radar vectors for visual approach Runway 22.",
+      "trans": "请求雷达引导，目视进近，跑道22。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/409.mp3"
+    },
+    {
+      "id": 47,
+      "content": "Request join downwind Runway 31.",
+      "trans": "请求加入三边，跑道31。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/152.mp3"
+    },
+    {
+      "id": 48,
+      "content": "Request taxi to holding point Runway 13.",
+      "trans": "请求滑行至13号跑道等待点。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/279.mp3"
+    },
+    {
+      "id": 49,
+      "content": "Request taxi to south maintenance ramp.",
+      "trans": "请求滑行到南边的维护机坪。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/226.mp3"
+    },
+    {
+      "id": 50,
+      "content": "Request frequency change.",
+      "trans": "请求换频率。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/43.mp3"
+    },
+    {
+      "id": 51,
+      "content": "15NM to HRB, FL290, tracking to JMU, squawking 6543.",
+      "trans": "15海里到HRB，高度290，直飞JMU，应答机编码6543。 *Note: 此处“15”可能读成“fifteen”.",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/411.mp3"
+    },
+    {
+      "id": 52,
+      "content": "Contact Control on 118.9.",
+      "trans": "联系区调118.9。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/104.mp3"
+    },
+    {
+      "id": 53,
+      "content": "Position OBLIK at 0646, maintaining FL310, estimating ZF 0658,WUH next.",
+      "trans": "当前位置OBLIK，时间0646，保持高度310，预计ZF点时间0658，下一位置WUH。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/522.mp3"
+    },
+    {
+      "id": 54,
+      "content": "Next report at WXA.",
+      "trans": "下一报告点WXA。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/89.mp3"
+    },
+    {
+      "id": 55,
+      "content": "Omit position reports.",
+      "trans": "省略位置报。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/33.mp3"
+    },
+    {
+      "id": 56,
+      "content": "Omit position reports on this frequency.",
+      "trans": "本频率省略位置报。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/232.mp3"
+    },
+    {
+      "id": 57,
+      "content": "Resume position reporting.",
+      "trans": "恢复位置报。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/45.mp3"
+    },
+    {
+      "id": 58,
+      "content": "Delay not determined due runway obstruction.",
+      "trans": "由于跑道障碍物，延误待定。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/248.mp3"
+    },
+    {
+      "id": 59,
+      "content": "Approach time not determined due weather.",
+      "trans": "由于天气原因，进近时间待定。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/234.mp3"
+    },
+    {
+      "id": 60,
+      "content": "Slot time not determined due flow control.",
+      "trans": "由于流量控制，离港时间待定。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/286.mp3"
+    },
+    {
+      "id": 61,
+      "content": "Revised slot time at 56.",
+      "trans": "修改的离港时间为56分。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/118.mp3"
+    },
+    {
+      "id": 62,
+      "content": "Expect hold at HUR VOR for 10 minutes due traffic.",
+      "trans": "由于冲突飞机，预计在HURVOR台等待10分钟。 Note: 数字10可能会读成“ten”",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/403.mp3"
+    },
+    {
+      "id": 63,
+      "content": "Expected approach time 44.",
+      "trans": "预计进近时间44分。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/106.mp3"
+    },
+    {
+      "id": 64,
+      "content": "Revised expected approach time 54.",
+      "trans": "最新预计的进近时间54分。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/164.mp3"
+    },
+    {
+      "id": 65,
+      "content": "No delay expected.",
+      "trans": "预计无延误。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/21.mp3"
+    },
+    {
+      "id": 66,
+      "content": "Delay not determined, numerous aircraft holding for weather improvement.",
+      "trans": "延误未定，很多飞机在等待天气好转。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/446.mp3"
+    },
+    {
+      "id": 67,
+      "content": "Cleared to exit the hold, fly direct to ML. Contact Approach on 128.35.",
+      "trans": "可以离开等待，直飞ML。联系进近128.35，",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/576.mp3"
+    },
+    {
+      "id": 68,
+      "content": "Approach clearance canceled, turn left direct to DA, climb to 4000 feet, hold as published, expect further clearance at time 50.",
+      "trans": "取消进近许可，左转直飞DA，上升到4000英尺，按公布的航图等待，预计进一步许可时间50分。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/722.mp3"
+    },
+    {
+      "id": 69,
+      "content": "Ready for approach.",
+      "trans": "准备好进近了。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/23.mp3"
+    },
+    {
+      "id": 70,
+      "content": "Request leave the holding pattern.",
+      "trans": "请求离开等待程序。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/163.mp3"
+    },
+    {
+      "id": 71,
+      "content": "After passing SY VOR, leave the hold on heading 250, cleared for VOR approach Runway 06.",
+      "trans": "过SYVOR台后，离开等待，航向250，可以VOR进近，跑道06号。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/679.mp3"
+    },
+    {
+      "id": 72,
+      "content": "Leave JFK VOR heading 210.",
+      "trans": "离开JFKVOR台，航向210 Note：部分考点JFK会直接按照英文字母 dʒeɪ ef keɪ 的读法读出来。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/125.mp3"
+    },
+    {
+      "id": 73,
+      "content": "Cleared to LHR, hold at LHR as published. Maintain 8000 feet.Expect further clearance at 18.",
+      "trans": "可以飞往LHR，并按公布的航图在LHR等待。保持高度8000英尺，预计进一步许可时间18。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/711.mp3"
+    },
+    {
+      "id": 74,
+      "content": "Hold south of AMS VOR at 9000 feet, inbound track 270 degrees,left hand pattern, outbound time 1 minute. Expect further clearance at 46.",
+      "trans": "在AMSVOR台以南等待，高度9000英尺，向台航迹270度，左等待，背台时间1分钟。预计进一步许可时间46分。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/723.mp3"
+    },
+    {
+      "id": 75,
+      "content": "Cleared to the 180 radial of PER VOR at 15 DME. Hold south, left hand pattern, outbound time 2 minutes, expect approach clearance at 37.",
+      "trans": "可以在PER VOR台180径向线DME15海里处向南等待，左等待，背台时间2分钟，预计进近许可时间37",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/724.mp3"
+    },
+    {
+      "id": 76,
+      "content": "Information P received, stand 03, ready to copy ATC clearance.",
+      "trans": "收到通播P，停机位03号，准备好抄收ATC许可。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/465.mp3"
+    },
+    {
+      "id": 77,
+      "content": "Gate 26, request clearance to London with information F.",
+      "trans": "停机位26号，请求去伦敦的放行许可，收到通播F。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/418.mp3"
+    },
+    {
+      "id": 78,
+      "content": "Cleared to destination, flight planned route, cruising level 330,departure Runway 04, initial altitude 7000 feet. HZ01 Departure,squawk 2563, departure frequency 124.35.",
+      "trans": "可以飞往目的地机场，按照计划的飞行路线，巡航高度层330，离场跑道04号，起始高度7000英尺。HZ-01号标准仪表离场，应答机2563，离场频率124.35。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/725.mp3"
+    },
+    {
+      "id": 79,
+      "content": "Cleared to destination via ZAM, flight planned route, D03 Departure,cruising level 230, squawk 3763.",
+      "trans": "可以经由ZAM飞往目的地，按照计划航路，D-03号标准仪表离场，巡航高度层230，应答机3763。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/701.mp3"
+    },
+    {
+      "id": 80,
+      "content": "Cleared to destination via flight planned route, Runway 36R, LKO-01 Departure, initially climb to 4500 feet, cruising level 310, when airborne contact 119.7, squawk 2515.",
+      "trans": "可以按照计划航路飞往目的地机场，跑道36右，LKO-01号标准仪表离场，起始上升高度4500英尺，巡航高度层310，离地后联系119.7，应答机2515。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/726.mp3"
+    },
+    {
+      "id": 81,
+      "content": "Cleared via ZF-01 Departure, initial altitude 5000 feet. Departure frequency 125.9. Cruising level 290, departure Runway 04. Squawk 6563.",
+      "trans": "可以经由ZF-01号标准仪表离场，起始高度5000英尺。离场频率125.9。巡航高度层290，离场跑道04号。应答机6563。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/727.mp3"
+    },
+    {
+      "id": 82,
+      "content": "Cleared to destination via flight plan route. Departure Runway 36L. HZ-01 Departure. Initial altitude 5000 feet. Cruising level 330. Departure frequency 119.45, squawk 5667.",
+      "trans": "可以按照计划航路飞往目的地机场，离场跑道36左，HZ-01号标准仪表离场。起始高度5000英尺，巡航高度层330，离场频率119.45，应答机5667。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/728.mp3"
+    },
+    {
+      "id": 83,
+      "content": "Recleared to destination via ZF01 Departure, Runway 36R, rest of clearance unchanged.",
+      "trans": "重新允许经由ZF-01号标准离场程序飞往目的地，跑道36R，其余许可不变。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/569.mp3"
+    },
+    {
+      "id": 84,
+      "content": "Recleared to destination via B213, WHA, R343, rest of route unchanged.",
+      "trans": "重新允许经由B213，WHA，R343航路飞往目的地，剩余航路不变。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/20201217/5fdb16509cabf.mp3"
+    },
+    {
+      "id": 85,
+      "content": "Cleared to destination via flight planned route, initial climb to 2700 feet, request level change en-route, departure frequency 120.3,squawk 0722.",
+      "trans": "可以按照计划航路飞往目的地机场，初始上升高度2700英尺，航路上申请改变高度，离场频率120.3，应答机0722。",
+      "audio": "https://resource.feizhiyi.com/fzy/Uploads/Tapes/Part2/729.mp3"
+    }
+  ]
+}
